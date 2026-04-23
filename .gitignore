@@ -1,0 +1,11 @@
+# Ignoruj wagi modeli
+*.pth
+*.pt
+
+# Ignoruj zbiory danych (podmień na nazwę swojego folderu z obrazkami, jeśli jest inna)
+/images/
+/data/
+
+# Ignoruj śmieci Pythona
+__pycache__/
+*.pyc

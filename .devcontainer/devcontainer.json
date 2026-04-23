@@ -1,0 +1,16 @@
+{
+    "name": "Recognize_Food_CNN-server",
+    "build": { "dockerfile": "Dockerfile" },
+    "runArgs": ["--gpus", "all"],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
+    },
+    "mounts": [
+    "source=C:/CNN-Food101/images,target=/workspaces/Recognize_Food_CNN/images,type=bind,consistency=cached"
+],
+    "remoteUser": "root"
+}
