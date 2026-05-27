@@ -1,23 +1,37 @@
-"""
-import streamlit as st
 import streamlit as st
 import torch
 import torch.nn.functional as F
 from PIL import Image
 from torchvision import transforms
+import torchvision.datasets as datasets
+import os
 from model_architecture import CNN 
 
-#Interfejs Streamlit
-st.set_page_config(page_title="Food AI Detector", page_icon="🥘")
+@st.cache_data
+def load_classes():
+    with open("classes.txt", "r") as f:
+        # line.strip() usuwa białe znaki i entery; warunek 'if line.strip()' odrzuca puste linie
+        classes = [line.strip().replace("_", " ").title() for line in f.readlines() if line.strip()]
+    return classes
 
+food_classes = load_classes()
+#Interfejs Streamlit
+st.set_page_config(page_title="Food Detector")
+#test test test
 @st.cache_resource
 def load_model():
     # Inicjalizujemy klasę CNN 
     model = CNN()
     # Ładujemy wagi wygenerowane przez skrypt treningowy
-    state_dict = torch.load("best_model.pth", map_location=torch.device('cpu'))
+    # Wybierz urządzenie (jeżeli jest CUDA użyj jej, w przeciwnym razie CPU)
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    state_dict = torch.load("best_model.pth", map_location=device)
     model.load_state_dict(state_dict)
+    model.to(device)
     model.eval() # Tryb ewaluacji
+
+
+
     return model
 
 # Przygotowanie danych
@@ -46,6 +60,9 @@ if file is not None:
             
             # 2. Przygotowanie zdjęcia
             img_tensor = preprocess(img).unsqueeze(0) 
+            # Przenieś tensor na to samo urządzenie, na którym jest model
+            device = next(net.parameters()).device
+            img_tensor = img_tensor.to(device)
             
             # 3. Predykcja
             with torch.no_grad():
@@ -57,7 +74,12 @@ if file is not None:
             class_id = index.item()
             confidence = prob.item() * 100
 
-            st.success(f"### Wynik: Klasa nr {class_id}")
+            try:
+                potrawa_name = food_classes[class_id]
+            except IndexError:
+                potrawa_name = f"Nieznane danie, ID: {class_id}"
+
+            st.success(f"### Wynik: {potrawa_name}")
             st.metric("Pewność modelu", f"{confidence:.2f}%")
             
             st.info(f"Dla klasy {class_id} przygotowaliśmy specjalny przepis, który wyświetli się tutaj.")
@@ -66,54 +88,5 @@ st.sidebar.markdown("### Statystyki Modelu")
 st.sidebar.text("Architektura: Custom CNN")
 st.sidebar.text("Liczba wag: ~8.4 mln")
 st.sidebar.text("Docelowe RF: 158")
-"""
-import streamlit as st
-import time
-import random
-from PIL import Image
 
-# --- KONFIGURACJA ---
-st.set_page_config(page_title="TEST - Food AI", page_icon="🧪")
 
-# Udawana lista klas (pobierz ją od kolegi, jak tylko będzie ją miał)
-MOCK_CLASSES = ["Pizza", "Burger", "Sushi", "Pad Thai", "Spaghetti Carbonara", "Steak"]
-
-# --- INTERFEJS ---
-st.title("🧪 TEST Interfejsu (Tryb bez AI)")
-st.info("Obecnie aplikacja działa w trybie testowym. Nie wymaga modelu 'best_model.pth'.")
-
-file = st.file_uploader("Wgraj dowolne zdjęcie, by sprawdzić układ strony...", type=["jpg", "png"])
-
-if file is not None:
-    img = Image.open(file)
-    st.image(img, caption="Podgląd zdjęcia", use_container_width=True)
-
-    if st.button("🚀 Uruchom testową analizę"):
-        # Symulacja paska postępu
-        with st.spinner("Symulacja pracy sieci neuronowej..."):
-            time.sleep(2) # Udajemy, że model liczy (2 sekundy)
-            
-            # Losujemy wynik, żeby zobaczyć jak wyglądają komunikaty
-            random_food = random.choice(MOCK_CLASSES)
-            random_conf = random.uniform(85, 99.9)
-
-        # Wyświetlanie wyników testowych
-        st.success(f"### Rozpoznano: {random_food}")
-        st.metric("Pewność (symulacja)", f"{random_conf:.2f}%")
-        
-        # --- TEST SEKCJI PRZEPISU ---
-        st.divider()
-        st.subheader(f"📖 Przykładowy przepis na {random_food}")
-        
-        col1, col2 = st.columns(2)
-        with col1:
-            st.markdown("**Składniki:**")
-            st.write("- Składnik testowy A\n- Składnik testowy B\n- Tajny przyprawa X")
-        with col2:
-            st.markdown("**Sposób przygotowania:**")
-            st.write("1. Podgrzej atmosferę na prezentacji.\n2. Pokaż działający interfejs.\n3. Zbierz gratulacje od prowadzącego.")
-
-# --- SIDEBAR DO TESTÓW ---
-st.sidebar.header("Panel deweloperski")
-st.sidebar.write("Tu możesz dodać suwaki do testowania różnych ustawień wyglądu.")
-theme = st.sidebar.selectbox("Zmień motyw (wizualnie)", ["Jasny", "Ciemny", "Systemowy"])

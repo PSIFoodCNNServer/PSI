@@ -4,8 +4,6 @@ import torch
 from torchvision import datasets, transforms
 from torch.utils.data import random_split, Dataset, DataLoader
 import torch.optim as optim
-import time
-from datetime import datetime
 
 
 #spradzenie czy jest dostępne GPU i wymuiszenie pracy na GPU
@@ -14,9 +12,14 @@ if not torch.cuda.is_available():
     raise Exception("Exception: Brak dostępnego GPU")
 
 model = CNN().to("cuda")
-print(model)
+#print(model)
+checkpoint_path = "best_model.pth"
+try:
+    model.load_state_dict(torch.load(checkpoint_path))
+    print(f"(Pomyślnie wczytano wagi z {checkpoint_path})")
+except FileNotFoundError:
+    print("Nie znaleziono pliku z wagami, trening rozpocznie się od zera.")
 
-print(f"\n[{datetime.now().strftime('%H:%M:%S')}] ✓ Model załadowany na GPU!")
 
 """
 VRAM uzyty ~= (wagi sieci * 4 bajty) + (pamięć optrymalizatora) + (aktywacje i gradienty * batch_size) + cuda
@@ -27,17 +30,11 @@ VRAM uzyty ~= (wagi sieci * 4 bajty) + (pamięć optrymalizatora) + (aktywacje i
 seria_zdjec = 64    #najbliższe i najniższe przybliżona potega 2 do 95
 
 #dzielenie datasetu programowo na zbiór treningowy, walidacyjny i testowy
-dataset = datasets.ImageFolder(root = "./images")
-
-print(f"[{datetime.now().strftime('%H:%M:%S')}] ✓ Dataset załadowany!")
-print(f"  • Liczba klas: {len(dataset.classes)}")
-print(f"  • Łącznie próbek: {len(dataset)}")
+dataset = datasets.ImageFolder(root = "images")
 
 train_size = int(0.8 * len(dataset))    #80% do trenowania
 val_size = int(0.1 * len(dataset))      #10% do walidacji
 test_size = len(dataset) - train_size - val_size    #10% do testu na koniec
-
-print(f"  • Train: {train_size} | Val: {val_size} | Test: {test_size}\n")
 
 #dzielenie losowo na powyższe proporcje
 train_subset, val_subset, test_subset = random_split(dataset, [train_size, val_size, test_size])
@@ -82,11 +79,13 @@ optymalziator
              im lr mniejszy tym dokładniejsze, ale spowalnia uczenie
     model.parameters - zeby optymalizował po wszystkich trenowalnych parametrach modelu
     """
-optimizer = optim.Adam(model.parameters(), lr=0.0001) 
+optimizer = optim.Adam(model.parameters(), lr=0.00005) 
 
 #ZACZYNAMY OD 20 EPOK NA TEST (DUŻY MODEL), POTEM ZWIEKSYC JAK ZADZIALA
 liczba_epok = 20   #liczba epok, czyli ile razy model przejdzie przez cały zbiór treningowy
 best_model_accuracy = 0.0   #zmienna do monitorowania najlepszej dokładności walidacyjnej
+
+print(f"Start uczenia, liczba epok to przerobienia: {liczba_epok}")
 
 # === HISTORIA METRYK DO ANALIZY ===
 historia_train_loss = []
@@ -95,12 +94,7 @@ historia_val_loss = []
 historia_val_acc = []
 epochs_bez_poprawy = 0  #licznik epok bez polepszenia walidacyjnej dokładności (do early stopping)
 
-print(f"[{datetime.now().strftime('%H:%M:%S')}] 🚀 Startowanie treningu ({liczba_epok} epok)...\n")
-czas_start_treningu = time.time()
-
 for epoka in range(liczba_epok):
-    czas_start_epoki = time.time()
-    
     #zerowanie statystyk
     train_liczba_probek = 0.0
     train_liczba_poprawnych = 0.0
@@ -154,8 +148,8 @@ for epoka in range(liczba_epok):
     # === ZAPISYWANIE NAJLEPSZEGO MODELU ===
     if val_dokladnosc > best_model_accuracy:
         best_model_accuracy = val_dokladnosc
-        torch.save(model.state_dict(), "best_model.pth") #zapisanie wag najlepszego modelu do pliku
-        print(f"  ★ Nowy najlepszy model! Val Acc: {val_dokladnosc:.4f} ↑")
+        torch.save(model.state_dict(), "best_model.pth")
+        print(f"✓ Nowy najlepszy model! Val Accuracy: {val_dokladnosc:.4f}")
         epochs_bez_poprawy = 0  #resetowanie licznika, bo była poprawa
     else:
         epochs_bez_poprawy += 1  #inkrementacja licznika bez polepszenia
@@ -166,29 +160,25 @@ for epoka in range(liczba_epok):
     historia_val_loss.append(val_sr_loss)
     historia_val_acc.append(val_dokladnosc)
 
-    czas_epoki = time.time() - czas_start_epoki
-    
     print(
-        f"[Epoka {epoka+1}/{liczba_epok}] ({czas_epoki:.1f}s) "
-        f"| Train: Loss={train_sr_loss:.4f} Acc={train_dokladnosc:.4f} "
-        f"| Val: Loss={val_sr_loss:.4f} Acc={val_dokladnosc:.4f}"
+        f"Epoka {epoka+1}/{liczba_epok} - "
+        f"Train Loss: {train_sr_loss:.4f}, Train Accuracy: {train_dokladnosc:.4f} - "
+        f"Val Loss: {val_sr_loss:.4f}, Val Accuracy: {val_dokladnosc:.4f}, Val Error: {val_bledy:.4f}"
     )
 
     # === EARLY STOPPING ===
     patience = 5  #liczba epok bez polepszenia, po której zatrzymujemy trening
     if epochs_bez_poprawy >= patience:
-        print(f"\n⚠️  Early stopping! Brak polepszenia przez {patience} epok.")
+        print(f"\n⚠ Early stopping! Brak polepszenia przez {patience} epok.")
         break
 
 
 # === PODSUMOWANIE TRENINGU ===
-czas_calosci = time.time() - czas_start_treningu
-print(f"\n{'='*70}")
-print(f"✓ Trening zakończony!")
-print(f"  • Czas całkowity: {czas_calosci/60:.1f} minut ({czas_calosci:.0f}s)")
-print(f"  • Najlepsza Val Accuracy: {best_model_accuracy:.4f}")
-print(f"  • Liczba epok: {len(historia_train_loss)}")
-print(f"{'='*70}\n")
+print(f"\n{'='*60}")
+print(f"Trening zakończony!")
+print(f"Najlepsza walidacyjna dokładność: {best_model_accuracy:.4f}")
+print(f"Liczba epok: {len(historia_train_loss)}")
+print(f"{'='*60}\n")
 
 # === ZAŁADOWANIE NAJLEPSZEGO MODELU ===
 print("Ładowanie najlepszego modelu...")
@@ -196,8 +186,7 @@ model.load_state_dict(torch.load("best_model.pth"))
 model.eval()
 
 # === EWALUACJA NA ZBIORZE TESTOWYM ===
-print("Ewaluacja na zbiorze testowym...\n")
-czas_start_testu = time.time()
+print("Ewaluacja na zbiorze testowym...")
 test_liczba_poprawnych = 0.0
 test_suma_strat = 0.0
 test_samples = 0
@@ -217,12 +206,9 @@ with torch.no_grad():
 test_dokladnosc = test_liczba_poprawnych / test_samples
 test_sr_loss = test_suma_strat / test_samples
 
-print(f"\n{'='*70}")
-print(f"TEST RESULTS (Czas: {time.time() - czas_start_testu:.1f}s)")
-print(f"{'='*70}")
-print(f"  • Test Loss: {test_sr_loss:.4f}")
-print(f"  • Test Accuracy: {test_dokladnosc:.4f} ({int(test_liczba_poprawnych)}/{int(test_samples)})")
-print(f"  • Test Error: {1-test_dokladnosc:.4f}")
-print(f"{'='*70}")
+print(f"\nWYNIKI TESTU:")
+print(f"  Test Loss: {test_sr_loss:.4f}")
+print(f"  Test Accuracy: {test_dokladnosc:.4f}")
+print(f"  Test Error: {1-test_dokladnosc:.4f}")
 
 
