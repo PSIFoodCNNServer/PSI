@@ -6,6 +6,7 @@ from torchvision import transforms
 import torchvision.datasets as datasets
 import os
 from model_architecture import CNN 
+from getFood import load_food_base
 
 @st.cache_data
 def load_classes():
@@ -15,6 +16,7 @@ def load_classes():
     return classes
 
 food_classes = load_classes()
+food_database = load_food_base()
 #Interfejs Streamlit
 st.set_page_config(page_title="Food Detector")
 #test test test
@@ -72,17 +74,50 @@ if file is not None:
 
             # 4. Wyświetlanie wyników
             class_id = index.item()
-            confidence = prob.item() * 100
+            confidence = prob.item() * 100  
+            food_data = None
+            display_name = f"Nieznane danie ID: {class_id}"
 
             try:
                 potrawa_name = food_classes[class_id]
             except IndexError:
                 potrawa_name = f"Nieznane danie, ID: {class_id}"
 
+            if class_id < len(food_classes):
+                food_key = food_classes[class_id] # np. "pizza"
+                display_name = food_key.replace("_", " ").title() # np. "Pizza"
+                
+                # Pobieramy obiekt z bazy (kluczem jest mała nazwa folderu, np. "pizza")
+                food_data = food_database.get(food_key.lower())
+                if food_data is None:
+                    food_data = food_database.get(food_key) 
+
             st.success(f"### Wynik: {potrawa_name}")
             st.metric("Pewność modelu", f"{confidence:.2f}%")
             
-            st.info(f"Dla klasy {class_id} przygotowaliśmy specjalny przepis, który wyświetli się tutaj.")
+            st.info(f"Dla potrawy {potrawa_name} przygotowaliśmy specjalny przepis, który wyświetli się tutaj.")
+
+            if food_data is not None:
+                st.markdown("---")
+                st.subheader("Wartości odżywcze (w porcji)")
+                
+                col1, col2, col3, col4 = st.columns(4)
+                col1.metric("Kalorie", f"{food_data.getKcal()} kcal")
+                col2.metric("Białko", f"{food_data.getProtein()}g")
+                col3.metric("Węglowodany", f"{food_data.getCarbs()}g")
+                col4.metric("Tłuszcze", f"{food_data.getFat()}g")
+                
+                st.markdown("---")
+                st.subheader(f"📖 Przepis na {food_data.getName()}")
+                
+                # Używamy metody z literówką kolegi: getReceipe()
+                recipe_text = food_data.getReceipe()
+                if recipe_text:
+                    st.write(recipe_text)
+                else:
+                    st.info("Brak opisu przepisu w bazie dla tej potrawy.")
+            else:
+                st.warning(f"Rozpoznano klucz '{food_classes[class_id]}', ale brakuje go w pliku foodBase.txt.")
 
 st.sidebar.markdown("### Statystyki Modelu")
 st.sidebar.text("Architektura: Custom CNN")

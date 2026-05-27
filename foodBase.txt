@@ -1,0 +1,709 @@
+{
+    "apple_pie": {
+        "full_receipe": "Prepare a double crust pastry by cutting 200g of cold unsalted butter into 350g of all-purpose flour until crumbly, adding 60ml of ice water to bind, and chilling the dough for one hour. Peel, core, and slice eight large Granny Smith apples. Toss the sliced apples with 150g granulated sugar, 50g dark brown sugar, 10g ground cinnamon, 5g ground nutmeg, and a squeeze of fresh lemon juice. Roll out the bottom crust and line a 9-inch pie dish. Pour in the apple filling, dot with 30g small cubes of butter, and cover with the top crust. Crimp the edges to seal completely, cut several steam slits in the top crust, and brush lightly with an egg wash. Bake at 190°C for 50 to 60 minutes until the crust is golden and the filling is bubbling heavily.",
+        "kcal": 3074,
+        "protein": 32,
+        "carbs": 468,
+        "fat": 125
+    },
+    "baby_back_ribs": {
+        "full_receipe": "Prepare a dry rub utilizing 50g dark brown sugar, 20g smoked paprika, 10g freshly ground black pepper, 15g kosher salt, 10g garlic powder, and 5g onion powder. Remove the thin silverskin membrane from the back of one full rack of pork baby back ribs (approx 1.2kg). Massage the dry rub generously into both sides of the meat. Wrap the ribs tightly in heavy-duty aluminum foil to retain moisture during the slow cook. Place the foil-wrapped ribs on a baking sheet and bake at 135°C for 2.5 to 3 hours until the meat is exceptionally tender and pulling away from the bone. Unwrap the ribs, brush generously with 150ml of a molasses-based barbecue sauce, and broil under high heat for 5 to 10 minutes until the sauce caramelizes.",
+        "kcal": 2450,
+        "protein": 185,
+        "carbs": 95,
+        "fat": 155
+    },
+    "baklava": {
+        "full_receipe": "Process 250g of walnuts and 250g of pistachios in a food processor until finely chopped, then mix with 15g ground cinnamon and a pinch of ground clove. Unroll a 450g package of phyllo dough and cover with a damp towel to prevent drying. Melt 250g of clarified unsalted butter. Brush a 9x13 inch baking pan with melted butter. Layer eight sheets of phyllo dough in the bottom, brushing each individual sheet thoroughly with butter. Spread a thin layer of the nut mixture. Repeat this process, layering two buttered sheets of phyllo followed by nuts, until all nuts are used. Top with a final eight layers of buttered phyllo. Cut into diamond shapes using a sharp knife. Bake at 175°C for 50 minutes. Concurrently, boil 300g sugar, 240ml water, 150g honey, and lemon juice to create a syrup. Pour the cooled syrup evenly over the hot baklava.",
+        "kcal": 4200,
+        "protein": 65,
+        "carbs": 510,
+        "fat": 230
+    },
+    "beef_carpaccio": {
+        "full_receipe": "Select 400g of high-quality center-cut beef tenderloin. Trim all exterior fat and silver skin to ensure purity. Tightly wrap the beef in plastic wrap, twisting the ends to form a uniform cylinder, and freeze for exactly two hours to firm the meat without freezing it solid. Using a meat slicer or an exceedingly sharp chef's knife, slice the beef paper-thin against the grain. Arrange the slices on a chilled plate in a single overlapping layer. Drizzle generously with 45ml of high-quality extra virgin olive oil and 15ml of freshly squeezed lemon juice. Scatter 30g of crisp baby arugula leaves and 15g of brined capers over the meat. Finish by shaving 40g of large flakes of aged Parmigiano-Reggiano over the top and seasoning with coarse sea salt and cracked black pepper.",
+        "kcal": 650,
+        "protein": 60,
+        "carbs": 5,
+        "fat": 42
+    },
+    "beef_tartare": {
+        "full_receipe": "Procure 300g of ultra-fresh, high-grade beef tenderloin or sirloin. Keep the meat chilled at all times over an ice bath. Using a sharp knife, finely dice the beef into uniform three-millimeter cubes; never use a meat grinder as it destroys the texture. In a cold glass bowl, gently fold the diced beef with 20g finely minced shallots, 15g drained brined capers, 20g finely chopped cornichons, and 10g chopped fresh flat-leaf parsley. In a separate small bowl, whisk together 15g Dijon mustard, 5ml Worcestershire sauce, a few drops of hot sauce, 30ml extra virgin olive oil, kosher salt, and freshly ground black pepper. Pour the dressing over the beef mixture and toss gently to combine. Form into a neat patty on a chilled plate. Create a small indentation in the center and carefully place a raw, pasteurized quail or chicken egg yolk inside.",
+        "kcal": 820,
+        "protein": 75,
+        "carbs": 12,
+        "fat": 52
+    },
+    "beet_salad": {
+        "full_receipe": "Preheat oven to 200°C. Scrub 500g of raw red and golden beets, trim the ends, and wrap them individually in heavy-duty aluminum foil with a drizzle of olive oil and a pinch of kosher salt. Roast for 45 to 60 minutes until easily pierced with a paring knife. Allow the beets to cool slightly, then rub off the skins using a paper towel. Cut the peeled beets into bite-sized wedges. In a small bowl, whisk together 45ml extra virgin olive oil, 20ml balsamic vinegar, 5g Dijon mustard, salt, and pepper to create a vinaigrette. Toss the warm beet wedges in half of the dressing. Arrange a bed of 150g fresh mixed greens or baby spinach on a platter. Top with the dressed beets, crumble 100g of soft goat cheese generously over the top, and sprinkle with 50g toasted candied walnuts. Drizzle the remaining vinaigrette over the salad just before serving.",
+        "kcal": 1150,
+        "protein": 28,
+        "carbs": 85,
+        "fat": 82
+    },
+    "beignets": {
+        "full_receipe": "In a large bowl, dissolve 10g active dry yeast in 240ml warm water (45°C) with a pinch of granulated sugar and let sit for five minutes until frothy. Whisk in 120ml evaporated milk, one lightly beaten egg, 30ml vegetable oil, and 50g granulated sugar. Gradually add 450g bread flour and 5g salt, mixing until a sticky dough forms. Turn the dough onto a floured surface and knead briefly until smooth. Place in an oiled bowl, cover, and refrigerate for at least two hours (or overnight). Roll the chilled dough out into a large rectangle about a quarter-inch thick. Cut the dough into two-inch squares using a sharp knife or pizza cutter. Heat 1 liter of neutral frying oil in a deep Dutch oven to exactly 180°C. Fry the dough squares in small batches, flipping constantly, until they are puffed and golden brown on all sides. Drain on paper towels and bury in 100g powdered sugar.",
+        "kcal": 2100,
+        "protein": 35,
+        "carbs": 310,
+        "fat": 75
+    },
+    "bibimbap": {
+        "full_receipe": "Prepare 300g of short-grain white rice and keep it warm. Thinly slice 250g of beef ribeye and marinate in 30ml soy sauce, 15ml sesame oil, 10g brown sugar, minced garlic, and grated pear for 30 minutes. Sauté the marinated beef in a hot skillet until caramelized. Separately blanch 150g of fresh spinach, squeeze out excess water, and toss with sesame oil, salt, and toasted sesame seeds. Julienne 100g carrots, 100g zucchini, and 100g shiitake mushrooms, sautéing each vegetable individually with a pinch of salt and garlic. In a stone bowl (dolsot) lightly coated with sesame oil, press a layer of the cooked rice against the bottom and heat until the bottom crisps. Arrange the beef and prepared vegetables in distinct, colorful sections over the rice. Fry an egg sunny-side up and place it in the center. Serve immediately with 30g gochujang on the side.",
+        "kcal": 1850,
+        "protein": 85,
+        "carbs": 210,
+        "fat": 65
+    },
+    "bread_pudding": {
+        "full_receipe": "Cut a 400g day-old brioche or French bread loaf into one-inch cubes and place them in a large mixing bowl; leaving the bread out overnight yields the best texture. In a separate bowl, whisk together 480ml whole milk, 240ml heavy cream, 4 large eggs, 100g granulated sugar, 50g dark brown sugar, 60g melted unsalted butter, 15ml pure vanilla extract, 5g ground cinnamon, and a pinch of freshly grated nutmeg. Pour this rich custard mixture over the cubed bread and gently press the bread down to submerge it. Let the mixture soak at room temperature for 45 minutes so the bread fully absorbs the liquid. Fold in 100g plump raisins or dried cranberries if desired. Transfer the soaked bread mixture into a buttered 9x13 inch baking dish. Bake at 175°C for 45 to 55 minutes until the pudding is set in the center and the top is puffed and golden brown.",
+        "kcal": 3400,
+        "protein": 65,
+        "carbs": 420,
+        "fat": 165
+    },
+    "breakfast_burrito": {
+        "full_receipe": "Dice 200g of russet potato into small cubes and fry in 30ml vegetable oil with 50g diced white onions until crispy and golden brown. In a separate skillet, cook 150g of crumbled breakfast sausage or diced bacon until fully rendered and crisp; drain excess fat. Whisk 4 large eggs with a splash of milk, salt, and pepper, then scramble them over medium-low heat until soft curds form. Lay out two 12-inch warm flour tortillas. Down the center of each tortilla, layer the crispy potatoes, the cooked meat, the soft scrambled eggs, and a generous 100g handful of shredded sharp cheddar or Monterey Jack cheese. Top with freshly made pico de gallo and a spoonful of sour cream or avocado slices. Fold the sides of the tortilla inward and roll tightly from the bottom up to enclose the filling. Briefly toast the rolled burrito in a dry skillet seam-side down to seal.",
+        "kcal": 1950,
+        "protein": 88,
+        "carbs": 165,
+        "fat": 105
+    },
+    "bruschetta": {
+        "full_receipe": "Slice a 300g rustic Italian baguette or ciabatta loaf into three-quarter-inch thick pieces on a slight bias. Brush both sides of the bread lightly with 45ml extra virgin olive oil and grill or bake at 200°C until the edges are toasted and crisp but the center retains a slight chew. While the bread is warm, rub the surface of each slice generously with a raw, halved clove of garlic. Core and dice 400g ripe Roma or heirloom tomatoes, placing them in a sieve to drain excess moisture for 10 minutes. In a bowl, gently toss the diced tomatoes with 20g torn fresh basil leaves, 1 minced garlic clove, 30ml high-quality extra virgin olive oil, 15ml balsamic vinegar, coarse sea salt, and freshly cracked black pepper. Spoon the tomato mixture generously over the garlic-rubbed crostini just before serving to prevent the bread from becoming overly soggy.",
+        "kcal": 1100,
+        "protein": 25,
+        "carbs": 145,
+        "fat": 45
+    },
+    "caesar_salad": {
+        "full_receipe": "Begin by making the dressing: in a wooden bowl or food processor, mash 4 anchovy fillets and 2 minced garlic cloves into a paste with a pinch of coarse salt. Whisk in 2 raw egg yolks, 10g Dijon mustard, and 15ml fresh lemon juice. While whisking constantly, slowly drizzle in 120ml extra virgin olive oil until the dressing emulsifies and thickens. Stir in 30g finely grated Parmigiano-Reggiano and freshly cracked black pepper. Discard the outer leaves of 2 large crisp Romaine lettuce hearts, wash, dry thoroughly, and tear into bite-sized pieces. Prepare croutons by tossing 150g cubed day-old rustic bread with 30ml olive oil, garlic powder, and salt, then baking at 190°C until crisp and golden. In a large bowl, gently toss the Romaine leaves with enough dressing to coat every leaf evenly. Add the croutons, toss once more, and serve immediately with extra cheese.",
+        "kcal": 1450,
+        "protein": 45,
+        "carbs": 65,
+        "fat": 115
+    },
+    "cannoli": {
+        "full_receipe": "To prepare the shells, mix 250g all-purpose flour, 30g granulated sugar, 5g cocoa powder, 2g cinnamon, and salt. Cut in 40g cold lard or butter until crumbly, then add 60ml Marsala wine and 1 beaten egg to form a stiff dough. Knead until smooth, wrap in plastic, and rest for one hour. Roll the dough through a pasta machine until paper-thin. Cut out circles using a 4-inch cutter, wrap them around metal cannoli tubes, sealing the overlapping edges with egg wash. Deep fry in 1 liter of neutral oil at 180°C for 2 minutes until blistered and crisp. Carefully slide the shells off the tubes while warm and let cool completely. For the filling, drain 500g whole milk ricotta overnight in a sieve to remove moisture. Gently fold the dry ricotta with 150g powdered sugar, 5ml vanilla extract, and 50g mini chocolate chips. Pipe into cooled shells.",
+        "kcal": 2800,
+        "protein": 65,
+        "carbs": 290,
+        "fat": 155
+    },
+    "caprese_salad": {
+        "full_receipe": "Procure the highest quality ingredients available: 500g ripe, in-season heirloom or beefsteak tomatoes, 250g fresh mozzarella cheese (preferably mozzarella di bufala packed in water), and 30g vibrant fresh basil leaves. Slice the tomatoes into uniform rounds, approximately one-quarter-inch thick. Slice the fresh mozzarella into rounds of the same thickness. On a large, shallow serving platter, arrange the tomato and mozzarella slices in an alternating, overlapping pattern, tucking a whole fresh basil leaf between every slice. Sprinkle generously with coarse flaky sea salt and freshly ground black pepper. Drizzle the entire arrangement heavily with 60ml of a robust, high-quality extra virgin olive oil. For a modern variation, add a light drizzle of 15ml thick, aged balsamic vinegar reduction, though traditional preparations omit the vinegar.",
+        "kcal": 950,
+        "protein": 45,
+        "carbs": 25,
+        "fat": 80
+    },
+    "carrot_cake": {
+        "full_receipe": "Preheat oven to 175°C and grease two 9-inch round cake pans. In a large bowl, whisk together 250g all-purpose flour, 10g baking soda, 5g baking powder, 10g ground cinnamon, 2g nutmeg, and salt. In a separate bowl, whisk 200g granulated sugar, 200g brown sugar, 240ml neutral vegetable oil, and 4 large eggs until thoroughly combined and smooth. Gradually fold the dry ingredients into the wet mixture until just incorporated. Stir in 300g freshly grated carrots, 100g drained crushed pineapple, and 100g chopped toasted pecans. Divide the batter evenly between the prepared pans. Bake for 35 to 40 minutes until a toothpick inserted into the center comes out clean. Cool the cakes entirely on a wire rack. For the frosting, beat 450g room temperature cream cheese and 115g unsalted butter until light and fluffy. Gradually add 400g sifted powdered sugar and 10ml vanilla.",
+        "kcal": 5200,
+        "protein": 60,
+        "carbs": 650,
+        "fat": 280
+    },
+    "ceviche": {
+        "full_receipe": "Select 450g of impeccably fresh, sushi-grade firm white fish, such as halibut, sea bass, or mahi-mahi. Cut the fish into uniform half-inch cubes and place them in a glass or ceramic bowl. Squeeze 150ml fresh lime juice and 50ml lemon juice over the fish until it is completely submerged; the citric acid will denature the proteins, effectively 'cooking' the fish. Cover and refrigerate for 20 to 30 minutes until the fish turns opaque and firm. Drain half of the citrus juice. Gently fold in 50g finely diced red onion, 15g seeded and minced jalapeño or serrano peppers, 100g diced Roma tomatoes, and 20g chopped fresh cilantro. Season aggressively with coarse sea salt and freshly ground black pepper. Carefully fold in 150g diced ripe avocado just before serving to prevent it from turning mushy. Serve immediately chilled with crisp tortilla chips.",
+        "kcal": 850,
+        "protein": 95,
+        "carbs": 45,
+        "fat": 35
+    },
+    "cheese_plate": {
+        "full_receipe": "Curate a balanced selection of cheeses encompassing different textures, milks, and flavor profiles. Select 150g soft bloomy rind cheese (such as Brie or Camembert), 150g firm aged cheese (such as a 24-month Parmigiano-Reggiano or aged Cheddar), 150g pungent blue cheese (such as Roquefort or Gorgonzola), and 150g tangy goat or sheep's milk cheese (such as Chèvre or Manchego). Allow all cheeses to sit at room temperature for at least 45 minutes before serving to maximize their aromatic volatility. Arrange the cheeses on a large wooden or slate board, providing a separate knife for each to prevent cross-contamination of flavors. Fill the negative space on the board with complementary accompaniments: 200g fresh grapes, 100g sliced crisp apples, 50g fresh figs, 50g honeycomb or fig jam, 100g Marcona almonds, 100g toasted walnuts, and a diverse array of 200g artisanal crackers and sliced baguette.",
+        "kcal": 3400,
+        "protein": 140,
+        "carbs": 220,
+        "fat": 210
+    },
+    "cheesecake": {
+        "full_receipe": "Crush 200g graham crackers into fine crumbs and mix with 75g melted butter and 30g sugar. Press this mixture firmly into the bottom and slightly up the sides of a 9-inch springform pan. Bake at 175°C for 10 minutes, then let cool. In a stand mixer, beat four 225g blocks of room-temperature full-fat cream cheese until perfectly smooth. Gradually add 250g granulated sugar, continuing to beat until light and aerated. Add 10ml vanilla extract and 15ml fresh lemon juice. Add 4 large eggs one at a time, mixing on low speed strictly until just combined to prevent incorporating excess air which causes cracking. Pour the batter over the cooled crust. Wrap the outside of the springform pan tightly in heavy-duty aluminum foil. Fill a roasting pan with boiling water halfway up the sides of the springform pan. Bake at 160°C for 55-70 minutes until edges are set but center jiggles. Refrigerate overnight.",
+        "kcal": 5800,
+        "protein": 95,
+        "carbs": 450,
+        "fat": 420
+    },
+    "chicken_curry": {
+        "full_receipe": "Heat 30g ghee or coconut oil in a heavy-bottomed pot over medium heat. Add 150g finely diced onions and sauté until heavily caramelized and golden brown. Stir in 15g minced garlic and 15g freshly grated ginger, cooking for one minute until fragrant. Add the dry spices: 10g ground coriander, 10g cumin, 5g turmeric, 5g garam masala, and 2g cayenne pepper; toast the spices in the oil for 30 seconds. Pour in a 400g can of crushed tomatoes and simmer until the oil separates from the tomato paste. Cut 600g boneless, skinless chicken thighs into bite-sized pieces, season with salt, and add them to the pot, stirring to coat in the spice mixture. Pour in a 400ml can of full-fat coconut milk and bring to a gentle boil. Reduce the heat, cover, and simmer for 25 to 30 minutes until the chicken is tender. Finish with 15ml fresh lime juice and fold in 20g chopped fresh cilantro.",
+        "kcal": 2100,
+        "protein": 145,
+        "carbs": 65,
+        "fat": 145
+    },
+    "chicken_quesadilla": {
+        "full_receipe": "Season 300g boneless, skinless chicken breasts with 5g chili powder, 3g cumin, 3g garlic powder, salt, and pepper. Grill or pan-sear the chicken in 15ml oil until fully cooked to 74°C internal temperature, then let rest before dicing into small cubes. In a large, dry skillet over medium-low heat, place a large 12-inch flour tortilla. Sprinkle a generous, even layer of 100g shredded Monterey Jack and 50g sharp cheddar cheese over the entire surface of the tortilla. Distribute the diced cooked chicken, 50g drained black beans, 50g corn kernels, and 15g finely diced jalapeños over one half of the tortilla. Once the cheese begins to melt and the bottom of the tortilla turns golden and crispy, fold the empty half of the tortilla over the filling. Press down gently with a spatula. Cook for another minute until the cheese is completely molten. Cut into wedges.",
+        "kcal": 1650,
+        "protein": 110,
+        "carbs": 125,
+        "fat": 85
+    },
+    "chicken_wings": {
+        "full_receipe": "Separate 1kg of whole chicken wings into drumettes and flats, discarding the tips. Pat the wings completely dry using paper towels; moisture is the enemy of crispy skin. Toss the wings in a bowl with 15g baking powder (not baking soda) and 10g kosher salt; the alkaline baking powder alters the pH of the skin, promoting browning and extreme crispiness. Arrange the wings on a wire rack set over an aluminum foil-lined baking sheet. Bake at 120°C for 30 minutes to render the fat, then increase the oven temperature to 220°C and bake for an additional 40 to 50 minutes until the wings are deeply browned and ultra-crispy. In a saucepan, melt 60g unsalted butter and whisk in 120ml Frank's RedHot sauce and 5ml Worcestershire sauce until emulsified. Transfer the hot, crispy wings to a large bowl, pour the buffalo sauce over them, and toss vigorously.",
+        "kcal": 1850,
+        "protein": 140,
+        "carbs": 15,
+        "fat": 135
+    },
+    "chocolate_cake": {
+        "full_receipe": "Preheat oven to 175°C and prepare two 9-inch round cake pans with butter and cocoa powder. In a large bowl, whisk together 250g all-purpose flour, 400g granulated sugar, 85g high-quality Dutch-processed cocoa powder, 10g baking soda, 5g baking powder, and 5g salt. In a separate bowl, combine 2 large eggs, 240ml buttermilk, 240ml hot brewed coffee to enhance the chocolate flavor, and 120ml vegetable oil. Gradually mix the wet ingredients into the dry ingredients, stirring just until the batter is smooth and lump-free. Divide the batter evenly between the prepared pans. Bake for 30 to 35 minutes until a wooden skewer inserted into the center comes out clean. Cool in the pans for 10 minutes before turning out onto wire racks. For the frosting, beat 225g softened unsalted butter with 350g powdered sugar, 60g cocoa powder, 10ml vanilla extract, and 60ml heavy cream. Frost the cooled cake layers.",
+        "kcal": 4900,
+        "protein": 55,
+        "carbs": 710,
+        "fat": 240
+    },
+    "chocolate_mousse": {
+        "full_receipe": "Finely chop 200g of high-quality semi-sweet or bittersweet chocolate (at least 60% cacao) and place it in a heatproof bowl. Melt the chocolate gently over a double boiler, stirring until smooth, then set aside to cool slightly. Separate 4 large eggs. Whisk the egg yolks into the slightly cooled chocolate one at a time. In a clean, grease-free bowl, whip the 4 egg whites with a pinch of salt and 30g of granulated sugar until stiff, glossy peaks form. In a third bowl, whip 240ml heavy cream with 5ml of vanilla extract until soft peaks form. Using a rubber spatula, vigorously stir one-third of the whipped egg whites into the dense chocolate mixture to lighten it. Gently fold in the remaining egg whites in two additions, taking care not to deflate the mixture. Finally, fold in the whipped cream until no white streaks remain. Divide the mousse into individual serving glasses and chill for 4 hours.",
+        "kcal": 2200,
+        "protein": 35,
+        "carbs": 185,
+        "fat": 165
+    },
+    "churros": {
+        "full_receipe": "In a medium saucepan, combine 240ml water, 60g unsalted butter, 30g granulated sugar, and a generous pinch of salt. Bring the mixture to a rolling boil over medium-high heat. Reduce the heat to low, immediately dump in 150g all-purpose flour all at once, and stir vigorously with a wooden spoon until a smooth dough forms a ball and pulls away from the sides of the pan. Remove from heat and let cool for five minutes. Beat in 3 large eggs, one at a time, ensuring each is fully incorporated before adding the next, until the dough is smooth and glossy. Transfer the dough to a sturdy piping bag fitted with a large open-star tip. Heat 1 liter of neutral frying oil in a deep pot to exactly 190°C. Squeeze 6-inch lengths of dough directly into the hot oil, using scissors to snip the ends. Fry for 2 to 3 minutes per side until golden brown and crisp. Roll in 100g granulated sugar mixed with 10g cinnamon.",
+        "kcal": 1850,
+        "protein": 25,
+        "carbs": 240,
+        "fat": 95
+    },
+    "clam_chowder": {
+        "full_receipe": "In a heavy-bottomed Dutch oven, fry 100g diced salt pork or bacon over medium heat until the fat is rendered and the meat is crisp; remove the bits and set aside. In the rendered fat, sauté 150g finely diced onions, 100g celery, and 100g leeks until translucent and tender, but not browned. Sprinkle 30g all-purpose flour over the vegetables and stir constantly for two minutes to form a blond roux. Gradually whisk in 500ml clam broth and bring to a simmer to thicken the base. Add 400g peeled and cubed russet potatoes, a bay leaf, and fresh thyme sprigs. Simmer for 15 to 20 minutes until the potatoes are fork-tender. Stir in 240ml heavy cream and 240ml whole milk, bringing the chowder back to a gentle simmer (do not boil). Fold in 300g chopped clams and simmer for exactly two minutes until they are heated through and tender. Season with salt and black pepper.",
+        "kcal": 2150,
+        "protein": 85,
+        "carbs": 155,
+        "fat": 135
+    },
+    "club_sandwich": {
+        "full_receipe": "Lightly toast 3 slices of high-quality white sandwich bread until golden brown. Spread a thin, even layer of 30g mayonnaise on one side of all three slices. On the bottom slice, arrange a bed of crisp iceberg or romaine lettuce leaves, followed by 2 slices of ripe tomato seasoned with a pinch of salt and pepper. Layer 100g of thin slices of roasted turkey breast over the tomatoes. Place the second slice of toasted bread, mayonnaise-side down, on top of the turkey. Spread another 15g mayonnaise on the top side of this middle slice. Layer 4 crispy, thick-cut bacon strips, followed by another layer of lettuce and tomato. Finish with the third slice of bread, mayonnaise-side down. Carefully press the sandwich down to compress the layers. Insert four frilled toothpicks arranged in a diamond pattern to secure the structure. Using a sharp serrated knife, cut the sandwich diagonally twice into 4 triangles.",
+        "kcal": 950,
+        "protein": 45,
+        "carbs": 65,
+        "fat": 58
+    },
+    "crab_cakes": {
+        "full_receipe": "Thoroughly pick through 450g of high-quality lump or jumbo lump crab meat to ensure absolutely no shell fragments remain, taking great care not to break up the large chunks of meat. In a separate bowl, whisk together 60g mayonnaise, 1 lightly beaten egg, 10g Dijon mustard, 5ml Worcestershire sauce, a dash of hot sauce, 5g Old Bay seasoning, and 15g finely chopped fresh parsley. Pour this wet mixture over the crab meat. Add 30g panko breadcrumbs or crushed saltine crackers to bind the mixture loosely. Gently fold the ingredients together using a rubber spatula, preserving the integrity of the crab lumps. Form the mixture gently into four thick patties. Place the patties on a baking sheet, cover, and refrigerate for at least one hour to allow the binder to set. Heat a mixture of butter and olive oil in a skillet over medium heat. Pan-fry the crab cakes for 3 to 4 minutes per side until deeply golden brown.",
+        "kcal": 1150,
+        "protein": 95,
+        "carbs": 35,
+        "fat": 75
+    },
+    "creme_brulee": {
+        "full_receipe": "Preheat oven to 160°C. In a saucepan, heat 480ml heavy cream, a pinch of salt, and the scraped seeds and pod of 1 vanilla bean over medium heat until it just begins to simmer; remove from heat and let steep for 15 minutes. In a mixing bowl, whisk 6 egg yolks and 100g granulated sugar until the mixture is pale yellow and slightly thickened. Remove the vanilla pod from the cream. Gradually temper the hot cream into the egg yolk mixture, whisking constantly to prevent the eggs from scrambling. Skim off any foam from the surface. Divide the custard evenly among 4 shallow ceramic ramekins placed in a deep roasting pan. Pour boiling water into the pan until it reaches halfway up the sides of the ramekins. Bake for 30 to 40 minutes until the edges are set but the center still jiggles like gelatin. Remove from the water bath and chill for 4 hours. Sprinkle 15g superfine sugar over each and caramelize with a blowtorch.",
+        "kcal": 2600,
+        "protein": 25,
+        "carbs": 210,
+        "fat": 195
+    },
+    "croque_madame": {
+        "full_receipe": "Melt 55g of butter in a saucepan, whisk in 30g of all-purpose flour, and cook for two minutes to form a roux. Gradually whisk in 350ml of whole milk, simmering until a thick béchamel forms. Season with salt, pepper, and a quarter teaspoon of freshly grated nutmeg. Lay out 4 thick slices of sourdough bread. Spread 10g Dijon mustard on 2 slices, and béchamel on the other 2. Layer 100g thin slices of high-quality Black Forest ham and 100g grated Gruyere cheese on the mustard slices, then top with the béchamel-coated slices. Melt 30g butter in a skillet and grill the sandwiches until the bread is golden and the cheese inside is melted. Transfer the sandwiches to a baking sheet, coat the tops with the remaining béchamel, and sprinkle heavily with 50g more Gruyere. Broil until the cheese is bubbly and browned. In a separate pan, fry 2 eggs sunny-side up in butter. Top each sandwich with a fried egg. Serve immediately.",
+        "kcal": 3240,
+        "protein": 180,
+        "carbs": 148,
+        "fat": 212
+    },
+    "cup_cakes": {
+        "full_receipe": "Preheat oven to 175°C and line a 12-cup muffin tin with paper liners. In a bowl, whisk 200g all-purpose flour, 200g sugar, 10g baking powder, and 3g salt. Add 115g room-temperature unsalted butter, mixing until it resembles coarse sand. In a separate bowl, whisk 120ml whole milk, 2 large eggs, and 5ml vanilla extract. Add the wet ingredients to the dry ingredients in two batches, beating well after each until the batter is smooth. Fill the muffin liners two-thirds full to prevent spilling over the edges. Bake for 18-20 minutes until a toothpick inserted into the center comes out clean. Cool completely on a wire rack. For the buttercream frosting, beat 225g softened butter until pale, slowly add 400g sifted powdered sugar, 30ml milk, and 10ml vanilla. Transfer to a piping bag and pipe high decorative swirls onto the cooled cupcakes.",
+        "kcal": 4200,
+        "protein": 40,
+        "carbs": 580,
+        "fat": 210
+    },
+    "deviled_eggs": {
+        "full_receipe": "Place 12 large eggs in a single layer in a saucepan, cover with cold water, and bring to a rolling boil over high heat. Remove from heat, cover tightly, and let sit for exactly 12 minutes. Transfer the eggs to an ice water bath to halt cooking and facilitate peeling. Peel the eggs carefully, slice them in half lengthwise, and gently pop out the hard-boiled yolks into a mixing bowl. Mash the yolks with a fork until perfectly fine and crumbly. Stir in 60g high-quality mayonnaise, 15g Dijon mustard, 5ml white vinegar, a dash of hot sauce, salt, and pepper until the mixture is completely smooth and creamy. For the best presentation, transfer the filling to a piping bag fitted with a star tip and pipe generous rosettes back into the hollows of the egg whites. Dust lightly with smoked paprika and garnish with finely chopped fresh chives before serving chilled.",
+        "kcal": 950,
+        "protein": 75,
+        "carbs": 10,
+        "fat": 72
+    },
+    "donuts": {
+        "full_receipe": "In a stand mixer, dissolve 10g active dry yeast in 240ml warm milk (45°C) with 50g granulated sugar. Add 60g melted unsalted butter, 2 large eggs, 5ml vanilla extract, 5g salt, and 450g all-purpose flour. Knead using the dough hook for 5-7 minutes until the dough is smooth, elastic, and pulls away from the bowl. Place in an oiled bowl, cover, and let rise in a warm place until doubled in size (about 1.5 hours). Roll the dough on a lightly floured surface to 1/2-inch thickness. Cut out donuts using a 3-inch circular cutter, reserving the holes. Place on parchment paper, cover lightly, and let rise for 45 minutes until puffy. Heat 1.5 liters of neutral oil in a heavy pot to 190°C. Fry the donuts 2 or 3 at a time for 1-2 minutes per side until golden brown. Drain on a wire rack. While still warm, dip the donuts into a glaze made of 250g powdered sugar, 45ml milk, and 5ml vanilla.",
+        "kcal": 3600,
+        "protein": 55,
+        "carbs": 480,
+        "fat": 170
+    },
+    "dumplings": {
+        "full_receipe": "For the wrapper dough, mix 300g all-purpose flour with 150ml warm water until a shaggy dough forms, then knead for 10 minutes until smooth and elastic. Cover with a damp towel and let rest for 30 minutes. For the filling, combine 300g ground pork, 150g finely minced Napa cabbage (salted and squeezed dry of all moisture), 10g minced garlic, 10g grated ginger, 20g chopped scallions, 15ml soy sauce, 10ml sesame oil, and a pinch of white pepper. Vigorously stir the filling in one direction until it becomes sticky and paste-like. Roll the rested dough into a thin cylinder, cut into 30 small equal pieces, and roll each into a thin circle, keeping the center slightly thicker than the edges. Place a spoonful of filling in the center, fold the dough into a half-moon, and pleat the edges to seal tightly. To pan-fry, heat 30ml oil in a skillet, place dumplings flat-side down until golden, add 120ml water, cover immediately, and steam for 5 minutes.",
+        "kcal": 1800,
+        "protein": 85,
+        "carbs": 210,
+        "fat": 65
+    },
+    "edamame": {
+        "full_receipe": "Bring a large pot of water (at least 2 liters) to a vigorous, rolling boil over high heat. Add a generous handful (approx 30g) of kosher salt to the water to season the beans properly (it should taste like the sea). Drop in 500g of fresh or frozen whole edamame pods. Boil uncovered for exactly 4 to 5 minutes until the pods are bright green and the beans inside are tender but still retain a slight bite. Drain the edamame immediately in a colander, but do not rinse with cold water, as the residual heat will naturally evaporate excess moisture. Transfer the hot, steaming pods to a large serving bowl. Toss aggressively with 15g of coarse flaky sea salt (such as Maldon) and an optional pinch of shichimi togarashi or red chili flakes for heat. Serve warm or at room temperature, instructing diners to discard the tough outer pods after eating the beans inside.",
+        "kcal": 350,
+        "protein": 34,
+        "carbs": 30,
+        "fat": 15
+    },
+    "eggs_benedict": {
+        "full_receipe": "For the hollandaise sauce, vigorously whisk 3 large egg yolks and 15ml of fresh lemon juice in a glass bowl set over a pot of gently simmering water (double boiler) until thickened and pale yellow. Slowly stream in 115g of melted, clarified butter while whisking continuously until the sauce is thick, rich, and fully emulsified. Season with salt and a pinch of cayenne pepper. Keep warm off the heat. Split 2 English muffins in half and toast them until golden brown. Pan-fry 4 thick slices of Canadian bacon in a skillet until the edges are caramelized. Poach 4 fresh large eggs by creating a gentle vortex in simmering water containing 15ml white vinegar, dropping the cracked eggs into the center, and cooking for exactly 3 minutes until the whites are fully set but the yolks remain liquid. Assemble by placing Canadian bacon on each muffin half, topping with a poached egg, and spooning generous amounts of warm hollandaise sauce over the top.",
+        "kcal": 1250,
+        "protein": 55,
+        "carbs": 65,
+        "fat": 88
+    },
+    "escargots": {
+        "full_receipe": "Preheat oven to 200°C. In a food processor, blend 150g of high-quality softened unsalted butter with 20g fresh minced garlic, 30g finely chopped flat-leaf parsley, 20g minced shallots, 15ml dry white wine, 5g kosher salt, and freshly cracked black pepper to create a potent compound garlic-herb butter. Procure 24 high-quality canned Burgundy snails; rinse and drain them thoroughly on paper towels. Place one snail into each crevice of an escargot baking dish (or place them back into sterilized snail shells if using traditional presentation). Generously pack the garlic-herb butter over and around each snail, ensuring the crevices are completely filled. Bake in the upper third of the oven for 10 to 12 minutes until the butter is bubbling vigorously and the garlic is highly fragrant. Serve immediately, sizzling hot, with copious amounts of crusty French baguette to soak up the melted garlic butter.",
+        "kcal": 1100,
+        "protein": 35,
+        "carbs": 15,
+        "fat": 95
+    },
+    "falafel": {
+        "full_receipe": "Soak 250g dried chickpeas in plenty of cold water for 24 hours (do not use canned chickpeas, as they will fall apart during frying due to high moisture). Drain the chickpeas completely and place them in a food processor with 50g fresh parsley, 50g fresh cilantro, 100g diced onions, 15g minced garlic, 10g ground cumin, 5g ground coriander, 10g salt, and 5g black pepper. Pulse the mixture repeatedly until it resembles coarse green sand—do not puree to a paste. Sprinkle in 30g all-purpose flour and 5g baking powder, pulsing briefly to incorporate. Transfer the mixture to a bowl, cover, and refrigerate for 2 hours to allow the starches to hydrate and bind the mixture. Form the mixture into small, tight balls or patties (about 30g each). Heat neutral frying oil to 180°C. Deep fry the falafel balls in batches for 4 to 5 minutes until deeply browned and forming a hard, crispy crust. Drain on paper towels and serve hot.",
+        "kcal": 1400,
+        "protein": 45,
+        "carbs": 165,
+        "fat": 65
+    },
+    "filet_mignon": {
+        "full_receipe": "Allow two 250g thick-cut, high-quality beef tenderloin steaks (filet mignon) to rest at room temperature for 45 minutes prior to cooking to ensure even heat distribution. Pat the steaks entirely dry with paper towels; moisture on the surface prevents a proper sear. Season all sides aggressively with coarse kosher salt and freshly cracked black pepper just before cooking. Heat a heavy cast-iron skillet over high heat until smoking hot. Add 15ml of a high smoke-point oil (like grapeseed or avocado oil), then carefully place the steaks in the pan. Sear untouched for 3-4 minutes until a deep, dark mahogany crust forms. Flip the steaks, reduce the heat to medium, and add 45g of unsalted butter, 3 crushed garlic cloves, and several fresh thyme sprigs to the pan. Constantly baste the steaks with the foaming butter using a spoon for an additional 3-4 minutes until the internal temperature reaches 52°C for medium-rare. Rest for 10 minutes before serving.",
+        "kcal": 650,
+        "protein": 55,
+        "carbs": 2,
+        "fat": 45
+    },
+    "fish_and_chips": {
+        "full_receipe": "Peel and cut 800g starchy russet potatoes into thick batons (chips). Blanch the cut potatoes in simmering salted water for 5 minutes, drain carefully, and dry thoroughly on a wire rack. Heat 2 liters of frying oil to 160°C and fry the chips for 5 minutes until cooked through but pale; remove and drain. For the batter, whisk 150g all-purpose flour, 50g cornstarch, 5g baking powder, and 5g salt. Gently whisk in 240ml of cold, highly carbonated beer until a thin, lumpy batter forms (do not overmix). Increase oil temperature to 190°C. Dust four 150g fillets of fresh cod or haddock lightly in seasoned flour, then submerge completely in the beer batter. Let excess drip off briefly, then carefully lower the fish into the hot oil away from you. Fry for 6-8 minutes until the batter is deep golden and ultra-crisp. Concurrently, drop the par-cooked chips back into the 190°C oil and fry until golden and crispy. Season both immediately with salt.",
+        "kcal": 1750,
+        "protein": 85,
+        "carbs": 145,
+        "fat": 95
+    },
+    "foie_gras": {
+        "full_receipe": "Procure a fresh, high-quality 500g lobe of duck foie gras. Using a sharp paring knife, meticulously devein the lobe while keeping it as intact as possible. Slice the foie gras into thick, 3/4-inch medallions. Keep the slices ice-cold in the refrigerator until the exact moment of cooking; if they warm up to room temperature, they will melt instantly in the hot pan. Score one side of each medallion in a shallow crosshatch pattern and season generously with coarse sea salt and finely ground white pepper. Heat a dry carbon steel or cast-iron skillet over medium-high heat until very hot. Place the cold slices directly into the dry pan. Sear for just 45 to 60 seconds per side until a deep brown, crispy crust forms, rendering a significant amount of liquid fat. Remove immediately to a paper towel to drain. Serve immediately alongside toasted brioche slices and a tart, acidic fruit compote (such as fig or cherry) to cut through the extreme richness.",
+        "kcal": 950,
+        "protein": 15,
+        "carbs": 10,
+        "fat": 95
+    },
+    "french_fries": {
+        "full_receipe": "Select 1kg of large, high-starch russet potatoes. Peel and cut them into uniform quarter-inch thick sticks using a mandoline or sharp knife. Submerge the cut potatoes in a large bowl of ice-cold water for at least one hour to draw out excess surface starch, which prevents burning and promotes crispness during frying. Drain the potatoes and dry them meticulously with clean kitchen towels; any remaining water will cause the oil to splatter dangerously. Heat peanut or canola oil in a heavy Dutch oven to exactly 160°C. Fry the potatoes in small batches for 5 to 6 minutes until they are cooked through but still completely pale and limp. Remove and drain on a wire rack; let them cool to room temperature. Increase the oil temperature to 200°C. Drop the blanched fries back into the hot oil for a second fry, cooking for 2 to 3 minutes until they puff slightly and turn a deep, golden brown. Drain on paper towels and toss immediately with fine sea salt.",
+        "kcal": 1200,
+        "protein": 12,
+        "carbs": 140,
+        "fat": 65
+    },
+    "french_onion_soup": {
+        "full_receipe": "Peel and thinly slice 1.5kg of yellow onions. Melt 60g butter in a large Dutch oven over medium heat. Add the onions, season with salt, and cook down slowly for 45 to 60 minutes, stirring occasionally, until they reduce significantly, caramelize, and turn a deep, rich mahogany color. Do not rush this step. Add 15g minced garlic and cook for one minute. Deglaze the pot with 120ml of dry sherry or white wine, scraping up all the browned bits (fond) from the bottom. Pour in 1.5 liters of high-quality, rich beef stock, add 3 fresh thyme sprigs and 1 bay leaf, and simmer gently for 30 minutes to meld the flavors. Season with salt and pepper to taste. Ladle the hot soup into oven-safe crocks. Top each crock with a thick slice of toasted French baguette, then cover completely with a mountain of 200g freshly grated Gruyere cheese. Broil in the oven until the cheese is bubbling vigorously, melted, and heavily browned around the edges.",
+        "kcal": 1850,
+        "protein": 85,
+        "carbs": 165,
+        "fat": 95
+    },
+    "french_toast": {
+        "full_receipe": "Slice a loaf of rich brioche or challah bread into thick, one-inch slices; day-old, slightly stale bread is optimal for absorbing the custard without disintegrating. In a wide, shallow bowl, whisk together 240ml whole milk, 120ml heavy cream, 4 large eggs, 30g granulated sugar, 10ml pure vanilla extract, 5g ground cinnamon, and a pinch of ground nutmeg until completely smooth and cohesive. Heat a large skillet or griddle over medium heat and melt 15g of unsalted butter until foaming. Dip the thick bread slices into the custard mixture, allowing them to soak for roughly 15 seconds per side to saturate the interior completely. Place the soaked bread directly onto the hot griddle. Cook for 3 to 4 minutes per side until deeply golden brown and crisp on the edges, and cooked through the center (no longer soggy). Serve immediately on warmed plates, dusted heavily with powdered sugar and generously drizzled with real maple syrup.",
+        "kcal": 1650,
+        "protein": 45,
+        "carbs": 195,
+        "fat": 75
+    },
+    "fried_calamari": {
+        "full_receipe": "Clean 500g fresh squid by removing the cartilage, ink sac, and beak. Cut the tubes into uniform half-inch rings and leave the tentacles whole if small, or halve them. Soak the prepared squid in 240ml buttermilk for 30 minutes to tenderize the meat. In a shallow dish, whisk together 150g all-purpose flour, 30g cornmeal for extra crunch, 10g kosher salt, 5g freshly ground black pepper, and 5g paprika. Heat neutral frying oil in a deep heavy-bottomed pot to exactly 190°C. Remove the squid from the buttermilk, allowing the excess liquid to drain off, and toss in the seasoned flour mixture until completely coated. Shake off all excess flour in a wire sieve. Fry the calamari in small batches for exactly 1 to 2 minutes; any longer and the meat will quickly become tough and rubbery. Remove with a spider skimmer, drain on paper towels, and season immediately with additional salt. Serve hot with fresh lemon wedges and warm marinara sauce.",
+        "kcal": 1400,
+        "protein": 85,
+        "carbs": 125,
+        "fat": 60
+    },
+    "fried_rice": {
+        "full_receipe": "Cook 400g of long-grain white rice the day before and chill it overnight in the refrigerator; cold, dry rice is absolutely mandatory to prevent clumping and mushiness. Heat a carbon steel wok over maximum heat until smoking. Add 30ml of high-smoke-point oil. Quickly scramble 3 beaten eggs in the wok, breaking them into small curds, then remove and set aside. Add 15ml more oil to the wok, then stir-fry 50g finely diced onions, 50g diced carrots, and 50g frozen peas until just tender. Add 10g minced garlic and 10g minced ginger, tossing for 15 seconds. Crumble the cold rice into the wok, breaking up any clumps with a spatula. Stir-fry aggressively, tossing the rice to ensure every grain is coated in oil and lightly toasted. Pour 45ml soy sauce, 5ml sesame oil, and a pinch of white pepper around the perimeter of the wok to sear the liquids before tossing them into the rice. Return the eggs to the wok, toss in 30g chopped scallions, and serve immediately.",
+        "kcal": 1550,
+        "protein": 45,
+        "carbs": 240,
+        "fat": 42
+    },
+    "frozen_yogurt": {
+        "full_receipe": "Line a fine-mesh sieve with cheesecloth and place it over a bowl. Pour 900g of high-quality whole milk plain yogurt into the sieve and let it drain in the refrigerator for 4 hours to remove excess whey, resulting in a thicker base. In a separate bowl, whisk together 150g granulated sugar, 60ml light corn syrup (which prevents ice crystal formation), and 10ml pure vanilla extract until the sugar is fully dissolved. Gently fold the drained yogurt into the sugar mixture until completely smooth and homogenous. Cover and chill the mixture in the refrigerator for at least 2 hours until it is ice cold. Pour the cold yogurt base into the frozen bowl of an ice cream maker and churn according to the manufacturer's instructions, typically 20 to 25 minutes, until it reaches the consistency of soft serve. Transfer the churned frozen yogurt to an airtight container and freeze for an additional 2 hours to firm up before scooping.",
+        "kcal": 1200,
+        "protein": 35,
+        "carbs": 220,
+        "fat": 25
+    },
+    "garlic_bread": {
+        "full_receipe": "Preheat oven to 200°C. Take a 400g loaf of crusty Italian or French bread and slice it in half horizontally. In a small bowl, combine 115g of softened unsalted butter with 4 large cloves of minced fresh garlic, 15g finely chopped fresh flat-leaf parsley, 5g kosher salt, and a pinch of freshly ground black pepper. Mash the mixture with a fork until the ingredients are evenly distributed to form a compound butter. Spread the garlic butter generously and evenly over the cut sides of both bread halves, ensuring the edges are coated to prevent burning. Place the bread halves, butter-side up, on a baking sheet. Bake in the preheated oven for 10 to 12 minutes until the butter is completely melted and the edges of the bread are golden brown and crispy. For a crunchier top, broil for an additional 1 to 2 minutes, watching closely to prevent burning. Remove from the oven, let cool for 2 minutes, then slice into 2-inch thick pieces.",
+        "kcal": 1800,
+        "protein": 35,
+        "carbs": 210,
+        "fat": 95
+    },
+    "gnocchi": {
+        "full_receipe": "Bake 1kg of large, starchy russet potatoes in a 200°C oven for 60 minutes until completely tender; baking rather than boiling prevents excess moisture, which ruins gnocchi. While still hot, cut the potatoes in half and scoop the flesh directly into a potato ricer, ricing them onto a clean work surface. Spread the riced potatoes into an even layer and let cool for 10 minutes to allow steam to escape. Drizzle 1 beaten egg evenly over the potatoes and sprinkle with 10g kosher salt. Sift 150g of all-purpose flour evenly over the top. Using a bench scraper, gently chop and fold the mixture together until a dough just begins to form. Gently knead the dough a few times until smooth—do not overwork. Cut the dough into 4 sections, roll each into a 1/2-inch thick rope, and cut into 1-inch pieces. Roll each piece over a gnocchi board to create ridges. Boil in heavily salted water until they float to the surface (about 2 minutes), then immediately transfer to a pan of warm sauce.",
+        "kcal": 1450,
+        "protein": 35,
+        "carbs": 280,
+        "fat": 15
+    },
+    "greek_salad": {
+        "full_receipe": "Prepare the vegetables by cutting 400g of ripe, sweet tomatoes (such as Roma or Campari) into large, bite-sized wedges. Peel 1 large English cucumber, halve it lengthwise, and slice it into thick half-moons. Thinly slice 1 medium red onion into rings and soak them in ice water for 10 minutes to remove their harsh bite, then drain thoroughly. Core and slice 1 green bell pepper into thick strips. In a large, shallow serving bowl, combine the tomatoes, cucumber, red onion, green pepper, and 100g of whole Kalamata olives (pits in for authenticity). Do not add lettuce. Drizzle the vegetables generously with 60ml of high-quality extra virgin olive oil and 15ml of red wine vinegar. Season with kosher salt and 5g of dried Greek oregano. Gently toss the salad to distribute the dressing. Top the salad with a single, large 150g slab of real sheep's milk feta cheese (do not crumble it). Drizzle the feta with a little more olive oil and a final pinch of oregano.",
+        "kcal": 950,
+        "protein": 25,
+        "carbs": 45,
+        "fat": 82
+    },
+    "grilled_cheese_sandwich": {
+        "full_receipe": "Select 2 thick slices of high-quality, sturdy bread, such as sourdough or a dense white pullman loaf. Spread a generous, even layer of softened unsalted butter (or mayonnaise for a crisper exterior) on one side of each slice of bread, ensuring coverage reaches all the way to the crusts. Heat a cast-iron or heavy non-stick skillet over medium-low heat. Place one slice of bread in the skillet, butter-side down. Immediately layer 75g of freshly grated sharp cheddar cheese and 25g of grated Gruyere cheese evenly over the bread; grating the cheese ensures a faster, more uniform melt than using thick slices. Place the second slice of bread on top, butter-side up. Cook slowly for 4 to 5 minutes until the bottom bread is deeply golden brown and crisp, pressing down gently with a spatula. Carefully flip the sandwich and cook the other side for another 4 minutes until equally golden and the cheese in the center is completely molten and oozing.",
+        "kcal": 750,
+        "protein": 35,
+        "carbs": 45,
+        "fat": 48
+    },
+    "grilled_salmon": {
+        "full_receipe": "Prepare a charcoal or gas grill for medium-high direct heat cooking. Take four 175g center-cut salmon fillets, skin-on. Pat the fillets completely dry with paper towels to prevent sticking to the grill grates. Brush the flesh side of the salmon with 15ml of olive oil and season generously with coarse kosher salt, freshly ground black pepper, and a pinch of smoked paprika. Ensure the grill grates are meticulously clean and oiled just before cooking. Place the salmon fillets on the hot grill, flesh-side down at a 45-degree angle to the grates. Grill undisturbed for 4 minutes to develop distinct grill marks and a crust. Using a thin metal spatula, carefully flip the fillets onto their skin side. Grill for an additional 4 to 5 minutes until the skin is blistered and crisp, and the internal temperature of the salmon reaches 52°C for medium doneness. Remove from the grill, let rest for 3 minutes, and serve with a squeeze of fresh lemon juice and chopped parsley.",
+        "kcal": 1400,
+        "protein": 140,
+        "carbs": 2,
+        "fat": 88
+    },
+    "guacamole": {
+        "full_receipe": "Select 3 large, perfectly ripe Hass avocados; they should yield slightly to gentle pressure. Halve the avocados, remove the pits, and scoop the green flesh into a large bowl. Add 30ml of freshly squeezed lime juice immediately to prevent oxidation. Using a fork or a traditional molcajete, coarsely mash the avocados, leaving plenty of large chunks for texture—do not puree to a smooth paste. Add 50g of finely diced white onion, 1 minced jalapeño or serrano pepper (seeds removed for less heat if desired), 20g of finely chopped fresh cilantro, and 1 small Roma tomato (cored, seeded, and finely diced). Season generously with 5g of kosher salt and a pinch of ground cumin. Gently fold the ingredients together using a rubber spatula until just combined. Taste and adjust seasoning, adding more lime juice or salt if necessary. Serve immediately with warm, crisp tortilla chips, or press plastic wrap directly onto the surface of the guacamole to store.",
+        "kcal": 950,
+        "protein": 12,
+        "carbs": 55,
+        "fat": 85
+    },
+    "gyoza": {
+        "full_receipe": "For the filling, combine 250g finely ground pork, 150g finely minced green cabbage (lightly salted, rested for 10 minutes, and squeezed completely dry), 20g finely chopped garlic chives or scallions, 1 minced garlic clove, 5g grated fresh ginger, 15ml soy sauce, 10ml sesame oil, 5ml sake, and a pinch of white pepper. Vigorously mix the filling in one direction with your hand until it becomes sticky and cohesive. Take 30 round, thin gyoza wrappers. Place 1 tablespoon of filling in the center of a wrapper, moisten the edge of the top half with water, fold it over, and pleat the front edge 5 to 6 times, pressing firmly to seal it against the flat back edge. Heat 15ml of vegetable oil in a large non-stick skillet over medium-high heat. Place the gyoza in the pan, flat side down, and cook for 3 minutes until the bottoms are deeply browned. Pour 60ml of water into the pan, immediately cover with a tight-fitting lid, and steam for 3 to 4 minutes. Remove lid and cook until crisp.",
+        "kcal": 1200,
+        "protein": 65,
+        "carbs": 110,
+        "fat": 55
+    },
+    "hamburger": {
+        "full_receipe": "Purchase 500g of high-quality ground beef with an 80/20 lean-to-fat ratio (chuck is optimal). Divide the meat into four 125g portions. Gently form each portion into a patty that is slightly wider than your bun, pressing a shallow dimple into the center of each patty to prevent it from puffing up like a meatball during cooking. Do not overwork the meat. Heat a cast-iron skillet or griddle over high heat until smoking. Just before cooking, season the patties aggressively on both sides with coarse kosher salt and freshly cracked black pepper. Place the patties in the hot skillet and cook undisturbed for 3 minutes to develop a dark, caramelized crust. Flip the burgers, immediately top each with a slice of American or cheddar cheese, and cook for another 3 minutes for medium doneness. While the burgers cook, toast 4 brioche buns in a separate pan with butter. Assemble the burgers on the toasted buns with crisp lettuce, sliced tomato, raw onion, and mayonnaise.",
+        "kcal": 2200,
+        "protein": 130,
+        "carbs": 140,
+        "fat": 135
+    },
+    "hot_and_sour_soup": {
+        "full_receipe": "Rehydrate 15g dried shiitake mushrooms, 10g dried wood ear mushrooms, and 10g dried lily flowers in hot water for 30 minutes; drain, remove hard stems, and slice thinly. Slice 150g of firm tofu and 100g of bamboo shoots into thin matchsticks. In a wok or pot, bring 1 liter of high-quality chicken broth to a simmer. Add the mushrooms, lily flowers, and bamboo shoots, simmering for 5 minutes. Stir in 45ml dark soy sauce and 15ml regular soy sauce for color and salinity. In a small bowl, whisk 30g cornstarch with 45ml cold water to create a slurry. Gradually stir the slurry into the simmering soup until it thickens to a velvety consistency. Add the tofu. Turn off the heat. Immediately stir in 60ml of black Chinkiang vinegar (crucial for the sourness) and 10g of ground white pepper (crucial for the heat)—do not boil the soup after adding vinegar. Slowly pour in 1 beaten egg in a thin stream, stirring gently in one direction to create ribbons. Garnish with scallions.",
+        "kcal": 850,
+        "protein": 45,
+        "carbs": 110,
+        "fat": 25
+    },
+    "hot_dog": {
+        "full_receipe": "Select 4 high-quality, all-beef frankfurters with natural casings for the best 'snap.' Fill a saucepan with water and bring it to a gentle simmer (do not boil vigorously, as high heat can cause the casings to split, leaching flavor into the water). Submerge the frankfurters in the simmering water and heat for 5 to 7 minutes until plump and fully heated through. Alternatively, grill the frankfurters over medium heat, turning frequently, for 7 to 9 minutes until they develop grill marks and a slightly charred exterior. While the hot dogs are cooking, lightly toast 4 split-top hot dog buns in a skillet with a small amount of butter until golden brown on the flat sides. Place the hot frankfurters into the toasted buns. Garnish classically with a zigzag of yellow mustard, a spoonful of sweet green pickle relish, and finely diced raw white onion. Serve immediately.",
+        "kcal": 1400,
+        "protein": 55,
+        "carbs": 110,
+        "fat": 85
+    },
+    "huevos_rancheros": {
+        "full_receipe": "In a skillet over medium heat, warm 15ml olive oil and sauté 50g diced white onion and 1 minced jalapeño until soft. Add 1 minced garlic clove and cook for 30 seconds. Pour in 400g of crushed tomatoes, season with salt, pepper, and a pinch of cumin. Simmer for 10 minutes until the ranchero sauce thickens. In a separate skillet, heat 30ml of vegetable oil over medium-high heat. Briefly fry 2 corn tortillas, one at a time, for about 10 seconds per side until they are slightly crisp but still pliable. Drain the tortillas on paper towels and place them on warm serving plates. In the same pan, fry 2 large eggs sunny-side up or over-easy. To assemble, spread a layer of warm, refried black beans over the fried corn tortillas. Carefully slide a fried egg on top of each bean-coated tortilla. Ladle the hot ranchero sauce generously over the eggs, leaving the yolks exposed. Garnish with crumbled cotija cheese, chopped fresh cilantro, and sliced avocado.",
+        "kcal": 850,
+        "protein": 35,
+        "carbs": 75,
+        "fat": 48
+    },
+    "hummus": {
+        "full_receipe": "Drain one 400g can of chickpeas, reserving 60ml of the aquafaba (the liquid in the can). For the smoothest possible texture, pinch the skins off the chickpeas and discard them. In a food processor, combine 60g of high-quality, well-stirred tahini and 45ml of freshly squeezed lemon juice. Process for 1 full minute, scraping down the sides, to whip the tahini into a pale, creamy paste. Add 1 large minced garlic clove, 30ml of extra virgin olive oil, 2g of ground cumin, and 5g of kosher salt to the whipped tahini; process for another 30 seconds. Add half of the peeled chickpeas and process for 1 minute. Add the remaining chickpeas and process until thick and smooth, about 1 to 2 minutes. With the processor running, slowly drizzle in 30ml of the reserved aquafaba (or ice water) to aerate the hummus and make it exceptionally fluffy. Transfer to a shallow bowl, create a swirl in the center, and garnish with a heavy drizzle of olive oil, paprika, and parsley.",
+        "kcal": 1100,
+        "protein": 35,
+        "carbs": 95,
+        "fat": 72
+    },
+    "ice_cream": {
+        "full_receipe": "In a medium saucepan, combine 480ml heavy cream, 240ml whole milk, 150g granulated sugar, and a pinch of salt. Split 1 vanilla bean lengthwise, scrape the seeds into the pot, and drop the pod in as well. Heat the mixture over medium heat until it just begins to simmer, then remove from heat, cover, and let steep for 30 minutes. In a separate bowl, vigorously whisk 6 large egg yolks until pale yellow. Remove the vanilla pod from the cream mixture and reheat it slightly. Gradually temper the warm cream into the egg yolks, whisking constantly. Return the entire mixture to the saucepan and cook over low heat, stirring constantly with a wooden spoon, until the custard thickens enough to coat the back of the spoon (approx 75°C). Strain the custard through a fine-mesh sieve into a clean bowl set over an ice bath. Chill the base in the refrigerator overnight. Churn in an ice cream maker according to manufacturer instructions, then freeze for 4 hours to harden.",
+        "kcal": 2800,
+        "protein": 35,
+        "carbs": 210,
+        "fat": 205
+    },
+    "lasagna": {
+        "full_receipe": "For the meat sauce (ragù), sauté 100g finely diced onion, 50g celery, and 50g carrots in olive oil until soft. Add 500g ground beef and 250g ground pork, cooking until browned. Stir in 30g tomato paste, cook for 2 minutes, then deglaze with 120ml dry red wine. Add 800g crushed tomatoes, salt, and pepper, and simmer slowly for 2 hours until thick and rich. For the béchamel sauce, melt 60g butter in a saucepan, whisk in 60g flour to form a roux, then gradually whisk in 700ml whole milk. Simmer until thickened, seasoning with salt and nutmeg. Preheat oven to 190°C. In a 9x13 inch baking dish, spread a thin layer of meat sauce. Layer dry or par-boiled lasagna noodles to cover the bottom. Spread a layer of meat sauce, drizzle generously with béchamel, and sprinkle with grated Parmigiano-Reggiano. Repeat these layers (noodles, ragù, béchamel, cheese) 4 to 5 times, finishing with a final layer of béchamel and cheese on top. Bake for 45 minutes until bubbly and browned. Rest 15 mins.",
+        "kcal": 4200,
+        "protein": 210,
+        "carbs": 320,
+        "fat": 240
+    },
+    "lobster_bisque": {
+        "full_receipe": "Begin by steaming 2 live lobsters (about 600g each) for 8 minutes; remove meat and chill, reserving the shells. In a large heavy pot, melt 45g butter and sauté 100g chopped onions, 50g carrots, and 50g celery until soft. Add the lobster shells and crush them slightly with a heavy spoon. Add 30g tomato paste and 5g paprika, cooking for 2 minutes. Deglaze the pot with 120ml dry sherry or cognac, carefully igniting it to burn off the alcohol (flambé). Add 1 liter of fish or seafood stock, 1 bay leaf, and a sprig of thyme. Simmer uncovered for 45 minutes to extract maximum flavor from the shells. Strain the stock through a fine-mesh sieve into a clean pot, pressing hard on the shells to extract all liquid; discard solids. Bring the strained stock to a simmer. In a small bowl, mix 30g cornstarch with 30ml water and whisk into the bisque to thicken. Stir in 240ml heavy cream and simmer for 5 minutes. Chop the reserved lobster meat, add to the bisque to warm through, and serve.",
+        "kcal": 1600,
+        "protein": 85,
+        "carbs": 65,
+        "fat": 115
+    },
+    "lobster_roll_sandwich": {
+        "full_receipe": "Steam or boil a 700g live Maine lobster until fully cooked (about 10-12 minutes). Remove the meat from the tail, claws, and knuckles, taking care to keep the pieces as large and intact as possible. Chop the meat into large, bite-sized chunks (you should yield roughly 454g of cooked meat). In a medium bowl, gently toss the lobster meat with 28g of high-quality mayonnaise, 15ml of freshly squeezed lemon juice, 5g of finely minced celery for crunch, a pinch of kosher salt, and a pinch of white pepper. Do not overdress the lobster; the mayonnaise should just barely coat the meat. Take 4 top-split New England-style hot dog buns and brush the flat outer sides generously with 30g of softened, salted butter. Toast the buns in a skillet over medium heat until both sides are golden brown and crisp. Carefully pry open the warm, toasted buns and divide the cold lobster salad evenly among them, stuffing them generously. Garnish with chopped fresh chives.",
+        "kcal": 2040,
+        "protein": 92,
+        "carbs": 84,
+        "fat": 148
+    },
+    "macaroni_and_cheese": {
+        "full_receipe": "Boil 450g of dried elbow macaroni in heavily salted water until just shy of al dente (about 1 minute less than package instructions); drain and set aside. In a large saucepan, melt 60g of unsalted butter over medium heat. Whisk in 60g of all-purpose flour and cook, stirring constantly, for 2 minutes to form a blond roux. Gradually whisk in 700ml of warm whole milk, ensuring no lumps form. Simmer the mixture for 5-7 minutes until it thickens into a smooth béchamel sauce. Remove the saucepan from the heat. Gradually stir in 300g of freshly grated sharp cheddar cheese and 150g of grated Gruyere cheese, stirring until the cheese is completely melted and the sauce is smooth. Season with 5g salt, 2g black pepper, 2g mustard powder, and a pinch of cayenne. Fold the cooked macaroni into the cheese sauce. Pour the mixture into a buttered 9x13 inch baking dish. Top with a mixture of 50g panko breadcrumbs and 30g melted butter. Bake at 190°C for 25 minutes until bubbly and golden.",
+        "kcal": 4100,
+        "protein": 165,
+        "carbs": 395,
+        "fat": 210
+    },
+    "macarons": {
+        "full_receipe": "Sift 140g of almond flour and 130g of powdered sugar together three times to ensure an ultra-fine texture, discarding any large almond bits. In a meticulously clean stand mixer bowl, whip 100g of aged egg whites (at room temperature) on medium speed until foamy. Add a pinch of cream of tartar. Gradually add 90g of granulated sugar, whipping until stiff, glossy peaks form. Gently fold the sifted dry ingredients into the meringue in three batches. Perform the 'macaronage' by pressing the batter against the sides of the bowl with a spatula to deflate some of the air, until the batter flows off the spatula like thick lava and forms a figure-eight without breaking. Pipe 1.5-inch circles onto parchment-lined baking sheets. Tap the sheets firmly on the counter to release air bubbles. Let the macarons sit at room temperature for 30-45 minutes until a dull skin forms on top. Bake at 150°C for 15 minutes. Cool completely before filling with buttercream or ganache.",
+        "kcal": 1850,
+        "protein": 35,
+        "carbs": 260,
+        "fat": 85
+    },
+    "miso_soup": {
+        "full_receipe": "Begin by making dashi (Japanese soup stock). In a medium pot, combine 1 liter of water and a 10cm piece of dried kombu (kelp). Heat slowly over medium-low heat until the water just begins to simmer, then immediately remove the kombu to prevent the broth from becoming bitter. Add 15g of loosely packed katsuobushi (dried bonito flakes) to the hot water. Simmer for 1 minute, turn off the heat, and let it steep for 5 minutes. Strain the broth through a fine-mesh sieve into a clean pot, discarding the bonito flakes. Bring the clear dashi to a gentle simmer. Add 100g of silken tofu cut into small, uniform cubes and 10g of dried wakame seaweed (rehydrated in water and drained). Simmer for 1 minute just to heat the tofu. Place 45g of white or awase miso paste into a small ladle, lower it partially into the simmering broth, and use chopsticks to dissolve the miso completely into the soup (never boil the soup after adding miso, as it kills the flavor). Garnish with chopped scallions.",
+        "kcal": 350,
+        "protein": 28,
+        "carbs": 40,
+        "fat": 12
+    },
+    "mussels": {
+        "full_receipe": "Thoroughly scrub 1kg of fresh live mussels under cold running water, pulling off and discarding the fibrous 'beards' protruding from the shells. Discard any mussels that are broken or refuse to close when tapped. In a large, wide Dutch oven, melt 30g of butter with 15ml of olive oil over medium heat. Add 50g of finely minced shallots and 3 minced garlic cloves, sautéing for 2 minutes until fragrant and translucent, but not browned. Pour in 240ml of dry white wine (such as Sauvignon Blanc or Pinot Grigio) and bring to a rapid boil to burn off the alcohol. Add the cleaned mussels to the pot all at once. Immediately cover the pot with a tight-fitting lid and let the mussels steam aggressively for exactly 5 to 7 minutes. Shake the pot occasionally. Remove the lid; all the mussels should be wide open (discard any that remain closed). Stir in 30g of chopped fresh parsley and 15g of cold butter to enrich the broth. Serve immediately in deep bowls with crusty bread.",
+        "kcal": 1100,
+        "protein": 120,
+        "carbs": 45,
+        "fat": 35
+    },
+    "nachos": {
+        "full_receipe": "Preheat oven to 200°C. Select 300g of thick, high-quality restaurant-style corn tortilla chips that can support heavy toppings without becoming soggy. On a large rimmed baking sheet, spread half of the tortilla chips in a single, even layer. Sprinkle the chips evenly with 150g of a shredded cheese blend (equal parts sharp cheddar and Monterey Jack). Scatter 150g of warm, seasoned ground beef or shredded chicken, 100g of drained black beans, and 50g of pickled jalapeño slices over the first layer. Top with the remaining tortilla chips, followed by another 150g of the shredded cheese blend to ensure every chip has cheese. Bake in the hot oven for 8 to 10 minutes, watching closely, until the cheese is completely molten, bubbly, and slightly browned at the edges. Remove from the oven and immediately dollop with sour cream, fresh pico de gallo (diced tomatoes, onions, cilantro), and dollops of fresh guacamole. Serve hot, directly from the baking sheet.",
+        "kcal": 2800,
+        "protein": 125,
+        "carbs": 240,
+        "fat": 165
+    },
+    "omelette": {
+        "full_receipe": "Crack 3 large, fresh eggs into a bowl and season with a pinch of salt and white pepper. Vigorously whisk the eggs with a fork until the yolks and whites are completely homogenous and slightly frothy. Heat an 8-inch non-stick skillet over medium-high heat. Add 15g of unsalted butter and swirl it around the pan until it melts and begins to foam, but before it browns. Pour the beaten eggs into the center of the pan. Immediately begin shaking the pan vigorously back and forth while simultaneously stirring the eggs rapidly in a circular motion with a heatproof spatula to create very small curds. When the eggs are mostly set but still wet and creamy on top (about 1 minute), stop stirring. Smooth the eggs into an even layer. Place 30g of grated Gruyere cheese and 5g of chopped chives in a line down the center. Tilt the pan, fold one side of the omelette over the filling, then gently roll it out of the pan onto a warm plate, seam-side down, forming a classic almond shape.",
+        "kcal": 450,
+        "protein": 28,
+        "carbs": 4,
+        "fat": 35
+    },
+    "onion_rings": {
+        "full_receipe": "Select 2 large, sweet Vidalia or Spanish onions. Peel and slice them into thick, 1/2-inch rings, carefully separating the layers. In a bowl, soak the onion rings in 240ml of buttermilk for 30 minutes to tenderize them and help the batter adhere. In a separate bowl, whisk together 150g of all-purpose flour, 30g of cornstarch (for extra crispiness), 5g of baking powder, 5g of kosher salt, 2g of smoked paprika, and a pinch of cayenne pepper. Heat 1.5 liters of neutral frying oil in a deep pot to exactly 190°C. Working in small batches, remove the onion rings from the buttermilk, allowing the excess to drip off, and dredge them thoroughly in the seasoned flour mixture. Shake off the excess flour and carefully drop them into the hot oil. Fry for 2 to 3 minutes, flipping once, until they are deep golden brown and exceptionally crispy. Remove with a spider skimmer, drain on a wire rack set over a baking sheet, and season immediately with additional coarse salt while hot.",
+        "kcal": 1200,
+        "protein": 20,
+        "carbs": 165,
+        "fat": 55
+    },
+    "oysters": {
+        "full_receipe": "Procure 12 ultra-fresh, live oysters (such as Blue Point or Kumamoto). Keep them buried in ice until the exact moment of preparation. To shuck, scrub the exterior shells under cold running water to remove mud and grit. Place an oyster flat-side up on a folded kitchen towel to protect your hand. Insert the tip of a specialized oyster knife into the hinge at the back of the shell. Apply firm inward pressure and twist the knife like a key to pop the hinge. Wipe the knife blade clean, then slide it horizontally across the underside of the top shell to sever the adductor muscle; discard the top shell. Slide the knife under the oyster meat to sever the bottom adductor muscle, leaving the oyster sitting loose in its natural liquor. Inspect for and remove any shell fragments. Arrange the shucked oysters on a platter of crushed ice to keep them cold. Serve immediately with lemon wedges, freshly grated horseradish, and a classic mignonette sauce (minced shallots, cracked pepper, red wine vinegar).",
+        "kcal": 150,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 4
+    },
+    "pad_thai": {
+        "full_receipe": "Soak 200g of dried flat rice noodles in warm water for 30 minutes until pliable but not fully soft; drain well. For the sauce, whisk together 45ml tamarind paste, 45ml fish sauce, 30g palm sugar, and 15ml water until the sugar dissolves. Heat a wok over high heat and add 30ml of vegetable oil. Add 100g of diced firm tofu, 15g minced garlic, and 15g chopped shallots, stir-frying for 1 minute until fragrant. Add 150g of peeled shrimp or sliced chicken, cooking until just opaque. Push the ingredients to one side of the wok, crack 2 large eggs into the empty space, and scramble them quickly. Add the soaked noodles and the tamarind sauce to the wok. Toss vigorously for 2 to 3 minutes until the noodles absorb the sauce and cook through. Turn off the heat and quickly fold in 100g of fresh bean sprouts and 30g of garlic chives. Serve immediately on a warm platter, garnished with 50g of crushed roasted peanuts, a wedge of lime, and red chili flakes on the side.",
+        "kcal": 1450,
+        "protein": 65,
+        "carbs": 180,
+        "fat": 55
+    },
+    "paella": {
+        "full_receipe": "In a wide, shallow paella pan, heat 45ml of olive oil over medium heat. Sauté 150g of diced Spanish chorizo and 250g of chicken thighs (cut into chunks) until browned; remove and set aside. In the same oil, sauté 100g diced onion, 1 diced red bell pepper, and 3 minced garlic cloves until soft. Stir in 100g grated tomatoes and 5g of smoked paprika (pimentón), cooking until the mixture thickens into a sofrito. Add a pinch of saffron threads that have been steeped in 15ml of warm water. Pour in 400g of short-grain Bomba or Calasparra rice, stirring for 2 minutes to coat the grains in the oil. Pour in 1 liter of hot chicken or seafood broth. Bring to a boil, season with salt, and return the chicken and chorizo to the pan. Reduce heat to a gentle simmer and do not stir the rice again. After 10 minutes, arrange 250g of cleaned mussels, 250g of shrimp, and 100g of peas over the top. Cook for another 10 minutes until the liquid is absorbed and a crust (socarrat) forms on the bottom.",
+        "kcal": 2800,
+        "protein": 185,
+        "carbs": 310,
+        "fat": 85
+    },
+    "pancakes": {
+        "full_receipe": "In a large mixing bowl, whisk together 250g of all-purpose flour, 30g of granulated sugar, 10g of baking powder, 2g of baking soda, and 5g of kosher salt. In a separate bowl, whisk 300ml of buttermilk, 2 large eggs, 45g of melted unsalted butter, and 5ml of vanilla extract until smooth. Pour the wet ingredients into the dry ingredients. Use a spatula to gently fold the mixture together just until the dry ingredients are moistened; the batter should be quite lumpy (overmixing develops gluten and results in tough, dense pancakes). Let the batter rest for 10 minutes. Heat a large non-stick skillet or griddle over medium heat and lightly coat with butter or oil. Pour 60ml (1/4 cup) pools of batter onto the hot griddle. Cook for 2 to 3 minutes until bubbles rise to the surface and the edges look set and dry. Carefully flip the pancakes with a spatula and cook for another 1 to 2 minutes until the bottoms are golden brown. Serve hot in a stack, topped with a pat of butter and maple syrup.",
+        "kcal": 1600,
+        "protein": 45,
+        "carbs": 210,
+        "fat": 65
+    },
+    "panna_cotta": {
+        "full_receipe": "Pour 60ml of cold whole milk into a small bowl and sprinkle 7g of unflavored powdered gelatin evenly over the surface. Let it sit (bloom) for 5 to 10 minutes until the gelatin absorbs the liquid and becomes solid. In a medium saucepan, combine 480ml of heavy cream, 50g of granulated sugar, and the scraped seeds from half a vanilla bean. Place the saucepan over medium heat, stirring gently, until the sugar completely dissolves and the mixture begins to steam and gently simmer around the edges (do not let it come to a rolling boil). Remove the saucepan from the heat. Scrape the bloomed gelatin into the hot cream mixture and whisk vigorously until the gelatin is entirely dissolved and smooth. Pour the liquid through a fine-mesh sieve into a pouring jug to catch any undissolved gelatin or vanilla bean fragments. Divide the mixture evenly among four 120ml ramekins. Cover with plastic wrap and refrigerate for at least 4 hours until completely set. Serve with berry coulis.",
+        "kcal": 2100,
+        "protein": 25,
+        "carbs": 85,
+        "fat": 185
+    },
+    "peking_duck": {
+        "full_receipe": "Select a 2kg whole duck. Soak in water with 15ml white vinegar for 1 hour. Pat dry. Separate skin from flesh by blowing air under the neck skin. Mix 30ml oyster sauce, 20ml Shaoxing wine, and 5g five-spice powder; rub inside the cavity. Skewer the cavity shut. Boil 1 liter water, 30g maltose, 30ml soy sauce, and 10g salt. Ladle this boiling syrup over the duck 20 times to tighten and glaze the skin. Hang the duck in a cool, well-ventilated area (or fridge) for 24-48 hours until the skin is parchment dry. Roast at 200°C for 15 minutes, then reduce to 170°C for 45 minutes until the skin is mahogany and crisp. Rest 15 mins. Carve skin and meat separately, serve with mandarin pancakes, hoisin sauce, and scallions.",
+        "kcal": 2800,
+        "protein": 140,
+        "carbs": 120,
+        "fat": 210
+    },
+    "pho": {
+        "full_receipe": "For the broth, blanch 1.5kg beef marrow bones and 500g beef brisket in boiling water for 10 minutes; drain and rinse bones clean. Char 1 large onion and a 10cm piece of ginger directly over an open flame until blackened. In a large stockpot, combine the clean bones, brisket, charred onion and ginger, and 4 liters of water. Bring to a boil, skim the scum, then simmer gently. Toast 5 star anise, 1 cinnamon stick, 5 cloves, and 15g coriander seeds in a dry pan; place in a spice bag and add to the broth. Simmer for 3 hours. Remove the brisket, cool, and slice thinly. Continue simmering bones for 3 more hours. Strain the broth, discarding solids. Season the clear broth with 60ml fish sauce, 30g rock sugar, and salt to taste. Soak 400g flat rice noodles in hot water until soft, then quickly blanch in boiling water. Place noodles in large bowls. Top with the cooked brisket and 200g thinly sliced raw beef sirloin. Pour the boiling hot broth over the meat to cook it instantly. Garnish.",
+        "kcal": 2400,
+        "protein": 190,
+        "carbs": 310,
+        "fat": 45
+    },
+    "pizza": {
+        "full_receipe": "For the Neapolitan dough, dissolve 3g active dry yeast in 300ml warm water. Gradually mix in 500g Tipo '00' flour and 10g fine sea salt. Knead vigorously for 10 minutes until smooth and elastic. Place in an oiled bowl, cover, and let rise for 2 hours. Punch down, divide into two 400g dough balls, and let rest for 1 hour. Place a pizza stone in the oven and preheat to its absolute maximum temperature (250°C-300°C) for at least one hour. For the sauce, simply crush 200g of high-quality canned San Marzano tomatoes by hand, seasoning with a pinch of salt (do not cook the sauce). Stretch one dough ball by hand on a floured peel into a 10-inch circle, keeping the rim thicker. Spread half the tomato sauce thinly over the dough. Tear 100g of fresh mozzarella di bufala into chunks and scatter over the sauce. Drizzle with olive oil. Slide the pizza onto the hot stone and bake for 5 to 7 minutes until the crust is blistered and charred in spots. Garnish with fresh basil leaves.",
+        "kcal": 1850,
+        "protein": 65,
+        "carbs": 310,
+        "fat": 40
+    },
+    "pork_chop": {
+        "full_receipe": "Select two 350g, thick-cut (at least 1.5 inches), bone-in pork chops. Brine the chops by dissolving 50g of kosher salt and 30g of brown sugar in 1 liter of cold water, submerging the chops for 2 hours in the refrigerator; this ensures the lean meat remains juicy. Remove the chops from the brine and pat them completely dry with paper towels. Season generously with freshly cracked black pepper (skip the salt due to the brine). Heat a heavy cast-iron skillet over medium-high heat until hot, then add 15ml of neutral oil. Place the chops in the pan and sear for 4 minutes on the first side until a deep, caramelized crust forms. Flip the chops and add 30g of unsalted butter, 2 smashed garlic cloves, and a sprig of rosemary to the pan. Baste the chops continuously with the foaming butter for another 4 to 5 minutes until an instant-read thermometer inserted into the center reads 60°C (for a slight pink center). Transfer to a board and let rest for 10 minutes before serving.",
+        "kcal": 1400,
+        "protein": 160,
+        "carbs": 5,
+        "fat": 75
+    },
+    "poutine": {
+        "full_receipe": "Cut 1kg of high-starch russet potatoes into thick fries. Blanch in 160°C oil for 5 minutes, drain, cool, then fry again at 200°C until golden and crispy; drain and season with salt. Concurrently, make the gravy: melt 45g butter in a saucepan, whisk in 45g all-purpose flour to make a roux, and cook until it smells nutty and turns light brown. Gradually whisk in 500ml of high-quality, rich beef stock (or a 50/50 mix of beef and chicken stock) to prevent lumps. Simmer for 10 minutes until the gravy is thick and coats the back of a spoon. Season with black pepper and a splash of cider vinegar for tang. To assemble, place a large mound of the hot, crispy fries in a wide, shallow bowl. Scatter 250g of extremely fresh, room-temperature cheese curds (they must 'squeak' when bitten) evenly over the fries. Immediately ladle the boiling hot gravy generously over the cheese curds and fries, ensuring the curds begin to melt and stretch. Serve immediately while the fries are still crisp.",
+        "kcal": 2600,
+        "protein": 75,
+        "carbs": 240,
+        "fat": 155
+    },
+    "prime_rib": {
+        "full_receipe": "Purchase a 3-bone standing rib roast (prime rib), approx 3kg. Dry brine the meat by heavily coating all sides with 45g of coarse kosher salt. Place it uncovered on a wire rack over a baking sheet in the refrigerator for 24 to 48 hours to dry the surface and deeply season the meat. Three hours before cooking, remove the roast from the fridge to come to room temperature. Rub the exterior with a mixture of 15g cracked black pepper, 15g garlic powder, and 10g dried rosemary. Preheat oven to 120°C. Place the roast, fat-side up, in a roasting pan. Slow-roast for 3 to 4 hours until the internal temperature in the thickest part reaches 48°C (for medium-rare). Remove the roast and tent loosely with foil; let it rest for at least 45 minutes to redistribute juices (the temperature will rise to 54°C). Increase oven to 260°C. Return the rested roast to the hot oven for 10 minutes to sear the exterior into a dark, crispy crust. Carve into thick slices and serve with au jus.",
+        "kcal": 6500,
+        "protein": 450,
+        "carbs": 10,
+        "fat": 510
+    },
+    "pulled_pork_sandwich": {
+        "full_receipe": "Take a 2kg bone-in pork shoulder (Boston butt). Coat the meat thoroughly with 30g yellow mustard to act as a binder, then generously apply a dry rub consisting of 50g brown sugar, 30g paprika, 15g salt, 10g black pepper, 10g garlic powder, and 5g cayenne. Prepare a smoker or oven for low, indirect heat at 110°C. Smoke or slow-roast the pork uncovered for 4 to 5 hours until a dark, mahogany 'bark' forms on the exterior. Wrap the pork tightly in butcher paper or aluminum foil and return to the heat for another 3 to 4 hours until the internal temperature reaches 96°C and the bone pulls out completely clean with no resistance. Let the wrapped meat rest in a cooler or unheated oven for 2 hours. Unwrap and use two forks (or bear claws) to shred the meat completely, discarding large chunks of unrendered fat. Toss the pulled pork with 240ml of a tangy, vinegar-based barbecue sauce. Serve warm, piled high on toasted brioche buns, topped with creamy coleslaw.",
+        "kcal": 4200,
+        "protein": 310,
+        "carbs": 240,
+        "fat": 220
+    },
+    "ramen": {
+        "full_receipe": "For the Tonkotsu broth, boil 2kg of split pork femur bones in water for 10 minutes, then discard the water and scrub the bones clean of dark marrow and coagulated blood. Return the clean bones to a large stockpot with 4 liters of water, 1 onion, 1 head of garlic, and a piece of ginger. Bring to a rapid, rolling boil over high heat, cover, and boil aggressively for 12 hours, topping up water as needed, until the broth becomes milky white and opaque from emulsified fat and collagen. Strain the broth. For the 'tare' (seasoning), mix 60ml soy sauce, 15ml mirin, and 5g salt in a serving bowl. Boil 150g of fresh, alkaline ramen noodles in a separate pot of water for 2 minutes until firm (al dente); drain thoroughly. Pour 400ml of the boiling hot Tonkotsu broth into the bowl with the tare. Add the cooked noodles, folding them neatly. Top with 2 slices of braised pork belly (chashu), a soft-boiled egg marinated in soy sauce (ajitama), chopped scallions, and a sheet of nori.",
+        "kcal": 1850,
+        "protein": 85,
+        "carbs": 165,
+        "fat": 95
+    },
+    "ravioli": {
+        "full_receipe": "Mound 300g of Tipo '00' flour on a work surface, make a well in the center, and crack 3 large eggs into it. Use a fork to gradually incorporate the flour into the eggs until a shaggy dough forms, then knead vigorously for 10 minutes until smooth and elastic. Wrap in plastic and rest for 30 minutes. For the filling, mix 200g of drained ricotta cheese, 50g grated Parmigiano-Reggiano, 1 egg yolk, a pinch of nutmeg, salt, and pepper. Roll the pasta dough through a machine until paper-thin (setting 8). Lay out one sheet of pasta, place 1-teaspoon mounds of filling 2 inches apart, brush the spaces between with water, and drape a second sheet of pasta over the top. Press down firmly around each mound to expel all air bubbles and seal the dough. Cut into squares using a fluted pasta cutter. Boil the ravioli in heavily salted water for 3 to 4 minutes until they float and the pasta is tender. Serve immediately tossed in a pan with browned butter and fresh sage leaves.",
+        "kcal": 1650,
+        "protein": 65,
+        "carbs": 210,
+        "fat": 65
+    },
+    "red_velvet_cake": {
+        "full_receipe": "Preheat oven to 175°C and grease two 9-inch round cake pans. In a bowl, whisk 300g all-purpose flour, 15g cocoa powder, 5g baking soda, and 5g salt. In a stand mixer, cream 115g softened unsalted butter and 300g granulated sugar until fluffy. Add 2 large eggs, one at a time, followed by 240ml vegetable oil, 15ml vanilla extract, 5ml white vinegar, and 30ml liquid red food coloring; beat until combined. Alternately add the dry ingredients and 240ml buttermilk to the mixer on low speed, beginning and ending with the dry ingredients. Do not overmix. Divide the vibrant red batter evenly between the pans. Bake for 25-30 minutes until a toothpick comes out clean. Cool the cakes entirely on wire racks. For the traditional cream cheese frosting, beat 450g softened cream cheese and 115g butter until smooth. Gradually add 400g powdered sugar and 10ml vanilla, beating until light and fluffy. Frost between the layers and all over the exterior of the cooled cake.",
+        "kcal": 5600,
+        "protein": 55,
+        "carbs": 780,
+        "fat": 255
+    },
+    "risotto": {
+        "full_receipe": "In a saucepan, bring 1.5 liters of high-quality chicken broth to a gentle simmer and keep it warm. In a wide, heavy-bottomed Dutch oven, melt 30g of butter with 15ml of olive oil over medium heat. Add 100g of very finely diced onion (or shallot) and sauté for 3 minutes until translucent but not browned. Add 300g of Arborio or Carnaroli rice to the pot. Toast the rice, stirring constantly with a wooden spoon, for 2 minutes until the edges of the grains become translucent. Deglaze the pan with 120ml of dry white wine, stirring until the liquid is completely absorbed. Begin adding the warm broth one ladleful (about 120ml) at a time, stirring frequently. Wait until the liquid is almost completely absorbed by the rice before adding the next ladle. Continue this process for 18 to 22 minutes until the rice is creamy but still retains a firm bite in the center (al dente). Remove from heat. Vigorously stir in 45g of cold cubed butter and 60g of grated Parmigiano-Reggiano (the mantecatura).",
+        "kcal": 2100,
+        "protein": 45,
+        "carbs": 280,
+        "fat": 75
+    },
+    "samosa": {
+        "full_receipe": "For the pastry, mix 250g all-purpose flour, 3g carom seeds (ajwain), and 5g salt. Rub 45g of ghee into the flour until crumbly, then gradually add 60ml of cold water to knead a stiff dough. Cover and rest for 30 minutes. For the filling, boil 400g of potatoes until tender, peel, and mash coarsely, leaving chunks. Heat 15ml oil in a pan, add 5g cumin seeds and 5g crushed coriander seeds until fragrant. Add 10g minced ginger and 1 chopped green chili. Stir in the mashed potatoes, 50g green peas, 5g garam masala, 3g amchur (mango powder), and salt. Cook for 3 minutes, then cool completely. Divide the dough into 6 balls, roll each into a 6-inch oval, and cut in half to form semi-circles. Brush the straight edge with water, fold into a cone shape, and seal the seam. Fill the cone with 2 tablespoons of the potato mixture, brush the top inner edges with water, and pinch tightly to seal the base. Deep fry in oil at 160°C for 10-12 minutes until golden, crisp, and blistered.",
+        "kcal": 1850,
+        "protein": 35,
+        "carbs": 240,
+        "fat": 85
+    },
+    "sashimi": {
+        "full_receipe": "Procure ultra-fresh, sushi-grade seafood, specifically designed for raw consumption (such as Maguro/tuna, Sake/salmon, and Hamachi/yellowtail). The fish must be kept extremely cold (near 0°C) until the exact moment of slicing. Using an exceptionally sharp, long-bladed slicing knife (such as a Yanagiba), trim any dark bloodline or sinew from a block (saku) of tuna. Slice the fish in a single, fluid drawing motion (from heel to tip of the blade) against the grain into uniform rectangular pieces, approximately 1cm thick, 2.5cm wide, and 5cm long. Never use a sawing motion, which damages the delicate cellular structure of the flesh. For thinner, firmer fish like flounder, use a bias cut (hirazukuri) to create wider, translucent slices. Arrange the slices elegantly on a chilled platter over a bed of finely julienned daikon radish and shiso leaves. Serve immediately with a small mound of high-quality grated wasabi and a shallow dish of premium soy sauce for dipping.",
+        "kcal": 350,
+        "protein": 65,
+        "carbs": 5,
+        "fat": 10
+    },
+    "scallops": {
+        "full_receipe": "Purchase 500g of large, 'dry' sea scallops (meaning they have not been treated with sodium tripolyphosphate, which causes them to leach water and prevents searing). Remove the small, tough adductor muscle from the side of each scallop. Pat the scallops meticulously dry with paper towels; any surface moisture will cause them to steam rather than sear. Season one side generously with coarse sea salt and freshly cracked black pepper. Heat a large stainless steel or cast-iron skillet over medium-high heat until very hot, then add 15ml of high smoke-point oil. Place the scallops in the pan, seasoned side down, leaving space between them. Do not touch or move them for exactly 2 minutes until a dark, golden-brown crust forms. Season the top side, then use tongs to flip them. Add 30g of unsalted butter and a sprig of thyme to the pan. Baste the scallops with the foaming butter for 1 minute until just barely cooked through (they should still be slightly translucent in the center). Serve immediately.",
+        "kcal": 650,
+        "protein": 85,
+        "carbs": 15,
+        "fat": 25
+    },
+    "seaweed_salad": {
+        "full_receipe": "Purchase 50g of dried wakame seaweed. Place the dried seaweed in a large bowl and cover with plenty of cold water. Let it soak for 10 to 15 minutes until it is fully rehydrated, expanded, and tender. Drain the seaweed thoroughly in a colander, squeezing out as much excess water as possible with your hands, then roughly chop it into bite-sized strips. In a small bowl, whisk together the dressing: 30ml of rice vinegar, 15ml of soy sauce, 15ml of toasted sesame oil, 10g of granulated sugar, and 5g of finely grated fresh ginger. Whisk until the sugar is completely dissolved. Place the drained seaweed into a serving bowl. Pour the dressing over the seaweed and toss thoroughly to coat. Add 10g of toasted white or black sesame seeds and 1 thinly sliced scallion. Toss again. Cover and refrigerate for at least 30 minutes before serving to allow the seaweed to absorb the flavors of the dressing. Serve chilled as a refreshing appetizer.",
+        "kcal": 250,
+        "protein": 5,
+        "carbs": 25,
+        "fat": 15
+    },
+    "shrimp_and_grits": {
+        "full_receipe": "In a heavy saucepan, bring 1 liter of chicken broth and 240ml of whole milk to a boil. Slowly whisk in 200g of stone-ground grits to prevent clumps. Reduce heat to low, cover, and simmer slowly for 45 minutes, stirring frequently, until the grits are thick and creamy. Remove from heat, stir in 45g of butter and 150g of grated sharp cheddar cheese; season with salt and black pepper. In a large skillet, fry 150g of diced bacon until crisp; remove bacon and leave the rendered fat in the pan. Season 450g of peeled and deveined large shrimp with Cajun seasoning. Sear the shrimp in the hot bacon fat for 1 minute per side until just pink, then remove them. In the same skillet, sauté 50g diced onion, 50g diced green bell pepper, and 2 minced garlic cloves until soft. Deglaze with a splash of chicken broth and a squeeze of lemon juice, scraping up the browned bits. Return the shrimp and bacon to the pan and toss to coat. Spoon the shrimp and pan sauce generously over the hot cheese grits.",
+        "kcal": 2100,
+        "protein": 115,
+        "carbs": 165,
+        "fat": 110
+    },
+    "spaghetti_bolognese": {
+        "full_receipe": "In a large heavy-bottomed Dutch oven, heat 30ml olive oil and 30g butter over medium heat. Add a finely diced soffritto: 100g onion, 100g celery, and 100g carrot. Sauté gently for 10 minutes until soft and sweet, but not browned. Add 300g of ground beef (80/20) and 200g of ground pork. Cook over medium-high heat, breaking the meat apart, until fully browned. Stir in 30g of tomato paste and cook for 2 minutes. Pour in 120ml of dry white or red wine, simmering until the liquid evaporates. Pour in 240ml of whole milk, add a pinch of nutmeg, and simmer until the milk evaporates to tenderize the meat. Add 800g of crushed San Marzano tomatoes, salt, and pepper. Bring to a boil, reduce the heat to the lowest setting, cover partially, and simmer very gently for a minimum of 3 hours, stirring occasionally. Boil 400g of dried spaghetti in salted water until al dente. Drain the pasta and toss vigorously with the rich ragù in the pot until coated. Serve with grated Parmigiano.",
+        "kcal": 3400,
+        "protein": 145,
+        "carbs": 380,
+        "fat": 135
+    },
+    "spaghetti_carbonara": {
+        "full_receipe": "Cut 150g of authentic guanciale (cured pork jowl) into thick strips. Place the guanciale in a large, cold skillet and turn the heat to medium-low. Cook slowly for 10-15 minutes, allowing the fat to render completely until the meat is deeply browned and crispy. Turn off the heat and leave the meat and fat in the pan. In a medium glass bowl, whisk together 2 large whole eggs and 2 additional egg yolks. Finely grate 100g of Pecorino Romano cheese and whisk it into the eggs along with a very generous amount of freshly ground black pepper to form a thick paste. Boil 400g of dried spaghetti in salted water (use less salt than usual, as the cheese and pork are salty) until al dente. Using tongs, transfer the hot pasta directly from the water into the skillet with the guanciale, tossing to coat in the fat. Quickly pour the egg and cheese mixture over the pasta, adding 60ml of hot pasta water. Toss vigorously and continuously off the heat until a thick, creamy emulsion forms.",
+        "kcal": 2900,
+        "protein": 110,
+        "carbs": 310,
+        "fat": 135
+    },
+    "spring_rolls": {
+        "full_receipe": "Prepare a mise en place of raw ingredients: 100g cooked vermicelli rice noodles, 150g cooked shrimp (halved horizontally), 100g julienned carrots, 100g julienned cucumber, 50g fresh bean sprouts, and handfuls of fresh mint, cilantro, and Thai basil leaves. Fill a wide, shallow dish with warm water. Take one dry, circular rice paper wrapper and submerge it in the warm water for exactly 5 to 10 seconds until it just begins to soften (it will continue to soften on the board; do not over-soak or it will tear). Lay the wrapper flat on a clean, damp cutting board. On the bottom third of the wrapper, place a small bundle of noodles, carrots, cucumber, sprouts, and herbs. Roll the bottom edge of the wrapper tightly over the filling. Place 3 shrimp halves in a row, pink side down, just above the rolled portion. Fold the left and right sides of the wrapper inward, then continue rolling tightly to the end, sealing the shrimp visibly under the final layer of translucent rice paper.",
+        "kcal": 850,
+        "protein": 55,
+        "carbs": 145,
+        "fat": 10
+    },
+    "steak": {
+        "full_receipe": "Select a 450g, 1.5-inch thick ribeye or New York strip steak with heavy fat marbling. Take the steak out of the refrigerator 45 minutes before cooking. Pat it entirely dry with paper towels. Season aggressively on all sides with coarse kosher salt and freshly cracked black pepper. Heat a heavy cast-iron skillet over high heat until it begins to smoke. Add 15ml of high smoke-point oil (like canola or grapeseed). Lay the steak in the pan away from you to prevent splattering. Sear undisturbed for 3 to 4 minutes to form a dark crust. Flip the steak. Add 45g of unsalted butter, 3 crushed garlic cloves, and a sprig of fresh rosemary to the pan. Tilt the pan and continuously spoon the foaming, infused butter over the steak for another 3 minutes (butter-basting) until the internal temperature hits 54°C for medium-rare. Remove the steak to a cutting board and let it rest undisturbed for 10 minutes to allow the muscle fibers to relax and retain their juices before slicing against the grain.",
+        "kcal": 1100,
+        "protein": 95,
+        "carbs": 2,
+        "fat": 85
+    },
+    "strawberry_shortcake": {
+        "full_receipe": "Wash, hull, and quarter 500g of fresh strawberries. Toss them in a bowl with 50g of granulated sugar and let them sit (macerate) for 30 minutes to release their natural juices. For the shortcakes, preheat oven to 200°C. In a large bowl, whisk 250g all-purpose flour, 50g sugar, 15g baking powder, and 3g salt. Cut 85g of very cold, cubed unsalted butter into the flour using a pastry blender until the mixture resembles coarse meal. Pour in 180ml of heavy cream and stir gently until just combined (do not overwork the dough). Turn out onto a floured surface, pat into a 1-inch thick circle, and cut out 6 biscuits using a round cutter. Bake on a parchment-lined sheet for 15 minutes until golden brown; let cool. For the whipped cream, whip 240ml of cold heavy cream with 15g powdered sugar and 5ml vanilla extract until soft peaks form. To assemble, split the biscuits in half, spoon the macerated strawberries and juices over the bottom half, dollop heavily with whipped cream, and top.",
+        "kcal": 2800,
+        "protein": 35,
+        "carbs": 310,
+        "fat": 155
+    },
+    "sushi": {
+        "full_receipe": "Wash 300g of short-grain Japanese sushi rice in cold water until the water runs clear. Cook the rice with 330ml water. While hot, transfer the rice to a wooden hangiri (tub) and gently fold in sushi vinegar (45ml rice vinegar dissolved with 20g sugar and 5g salt) using a slicing motion with a rice paddle, fanning the rice simultaneously to cool it quickly and give it a glossy sheen. For Nigiri, wet your hands, form 15g of the seasoned rice into a small oval, dab a tiny amount of wasabi on the underside of a 15g slice of raw sushi-grade fish (tuna or salmon), and drape the fish over the rice, pressing gently to adhere. For Maki (rolls), place a half-sheet of nori (seaweed) rough-side up on a bamboo mat. Spread a thin, even layer of rice over the nori with wet fingers, leaving a 1cm gap at the top edge. Lay thin strips of raw tuna and cucumber horizontally across the center. Roll the bamboo mat tightly over the filling, wetting the top edge to seal the roll. Slice into 6 pieces with a wet knife.",
+        "kcal": 1200,
+        "protein": 55,
+        "carbs": 210,
+        "fat": 15
+    },
+    "tacos": {
+        "full_receipe": "For carne asada tacos, marinate 500g of skirt or flank steak in a mixture of 60ml orange juice, 30ml lime juice, 30ml olive oil, 3 minced garlic cloves, 10g chili powder, 5g cumin, and 10g kosher salt for 2 hours. Preheat a grill or cast-iron skillet to very high heat. Remove the steak from the marinade and sear for 3 to 4 minutes per side until charred on the outside and medium-rare inside. Rest the meat for 10 minutes, then chop it into small, bite-sized cubes. Heat 8 small (6-inch) corn tortillas on a dry skillet or directly over a gas flame until warm, pliable, and slightly charred at the edges. To assemble, double up the tortillas (use two per taco to prevent tearing). Fill the center of the tortillas with a generous portion of the chopped steak. Garnish simply and authentically with 50g of finely diced white onion and a generous handful of chopped fresh cilantro. Serve immediately with wedges of fresh lime to squeeze over the top and a side of spicy salsa verde or roja.",
+        "kcal": 1850,
+        "protein": 115,
+        "carbs": 125,
+        "fat": 95
+    },
+    "takoyaki": {
+        "full_receipe": "Whisk together the batter: 100g all-purpose flour, 450ml cold dashi stock, 1 large egg, and 5ml soy sauce until thin and completely smooth. Heat a specialized cast-iron takoyaki pan (with hemispherical molds) over medium heat and generously oil every crevice. Pour the batter to flood the entire pan, overflowing the individual molds. Drop one 1-centimeter cube of boiled octopus (tako) into the center of each mold. Sprinkle the entire surface generously with 30g tenkasu (crispy tempura scraps), 15g minced beni shoga (red pickled ginger), and 20g finely chopped scallions. As the bottom cooks, use two skewers to cut the batter between the molds and push the excess batter into the holes while rotating each ball 90 degrees. Continue rotating the balls constantly as they cook until they form perfect, golden-brown spheres that are crispy on the outside and gooey inside (about 5 minutes). Serve hot, brushed with thick takoyaki sauce, Japanese mayonnaise, aonori, and bonito flakes.",
+        "kcal": 450,
+        "protein": 25,
+        "carbs": 50,
+        "fat": 15
+    },
+    "tiramisu": {
+        "full_receipe": "Brew 300ml of very strong espresso and let it cool completely; mix it with 45ml of Marsala wine or dark rum. Separate 4 large eggs. In a mixing bowl, beat the 4 egg yolks with 50g of granulated sugar until thick, pale, and ribbons form. Add 450g of room-temperature mascarpone cheese to the yolks and beat gently until just combined and smooth. In a separate, impeccably clean bowl, whip the 4 egg whites with a pinch of salt until stiff peaks form. Use a rubber spatula to gently fold the whipped egg whites into the mascarpone mixture in three additions, keeping the mixture as light and airy as possible. Quickly dip 24 crisp Savoiardi (ladyfinger) cookies, one at a time, into the cold espresso mixture—soak for only 1 second per side to prevent them from disintegrating. Arrange a tight layer of soaked ladyfingers in the bottom of a 9x9 inch dish. Spread half of the mascarpone cream evenly over the top. Repeat with a second layer of soaked ladyfingers and the remaining cream. Chill 8 hours. Dust with cocoa.",
+        "kcal": 3200,
+        "protein": 65,
+        "carbs": 240,
+        "fat": 210
+    },
+    "tuna_tartare": {
+        "full_receipe": "Purchase 300g of the highest quality, sushi-grade Ahi (yellowfin) tuna; keep it meticulously chilled until the moment of preparation. Using an exceedingly sharp knife, dice the tuna into uniform, 1/4-inch cubes. Do not chop the fish, as it will turn into a mushy paste. Place the diced tuna in a chilled glass bowl. Add 20g of finely minced shallots, 10g of finely chopped fresh chives, 5g of grated fresh ginger, and 5g of toasted sesame seeds. In a small bowl, whisk together the dressing: 15ml of high-quality soy sauce, 10ml of toasted sesame oil, 5ml of fresh lime juice, and 2ml of sriracha or chili oil for subtle heat. Pour the dressing over the tuna mixture and fold very gently with a rubber spatula just to combine. Let the mixture sit for exactly 3 minutes to absorb the flavors, but no longer, or the lime juice will begin to cure the fish. Carefully fold in 50g of finely diced ripe avocado. Pack the tartare lightly into a ring mold on a chilled plate. Serve with wonton crisps.",
+        "kcal": 650,
+        "protein": 75,
+        "carbs": 15,
+        "fat": 32
+    },
+    "waffles": {
+        "full_receipe": "Preheat a Belgian waffle iron. In a large bowl, whisk together 250g of all-purpose flour, 30g of granulated sugar, 10g of baking powder, 2g of baking soda, and 5g of salt. In a separate bowl, separate 2 large eggs. Whisk the 2 egg yolks with 350ml of buttermilk, 60g of melted unsalted butter, and 5ml of vanilla extract. Pour the wet ingredients into the dry ingredients and stir gently until just combined; the batter should remain slightly lumpy. In a clean bowl, vigorously whip the 2 egg whites until stiff peaks form. Using a rubber spatula, gently fold the whipped egg whites into the batter in two additions; this crucial step aerates the batter, resulting in waffles that are crispy outside and airy inside. Spray the hot waffle iron with non-stick spray. Pour the appropriate amount of batter onto the iron (usually 120ml to 180ml depending on the size), close the lid, and cook until the iron stops emitting steam and the waffles are deep golden brown and crisp (4 to 5 minutes).",
+        "kcal": 1850,
+        "protein": 45,
+        "carbs": 240,
+        "fat": 85
+    }
+}
